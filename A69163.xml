@@ -1,0 +1,1147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paradise within us: or, The happie mind. By Robert Crofts</title>
+            <author>R. C. (Robert Crofts)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 143 KB of XML-encoded text transcribed from 111 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69163</idno>
+            <idno type="STC">STC 6043</idno>
+            <idno type="STC">ESTC S116646</idno>
+            <idno type="EEBO-CITATION">99851862</idno>
+            <idno type="PROQUEST">99851862</idno>
+            <idno type="VID">17154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 984:23, 1541:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Paradise within us: or, The happie mind. By Robert Crofts</title>
+                  <author>R. C. (Robert Crofts)</author>
+               </titleStmt>
+               <extent>[8], 198 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop and T. Fawcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Additional engraved title page reads: The happie mind. Or A compendious direction to obtaine the same. By R.C. Gent.</note>
+                  <note>Running title reads: The happie mind.</note>
+                  <note>Formerly STC 4299.</note>
+                  <note>Identified as STC 4299 on UMI microfilm, reel 1541.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+                  <note>Appears at reel 984 ³ (British Library copy, lacks engraved title page), and at reel 1541 đ (British Library copy, lacking letterpress title page).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mind and body --  Early works to 1800.</term>
+               <term>Self-realization --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1900.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17154:1"/>
+            <pb facs="tcp:17154:1"/>
+            <p>PARADISE WITHIN US: OR, The happie Mind.</p>
+            <p>
+               <hi>By</hi> Robert Crofts.</p>
+            <p>LONDON, Printed by <hi>B. Alſop</hi> and <hi>T. Fawcet.</hi> 1640.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:17154:2"/>
+            <pb facs="tcp:17154:2"/>
+            <head>To the Readers.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Ormerly having ſtudied out of many good Au<g ref="char:EOLhyphen"/>thors divers notes con<g ref="char:EOLhyphen"/>cerning this Subject of <hi>Mans Happineſſe;</hi> And ſince (for private uſe) written the ſame together in a Booke Entituled VIA FOELIX, <hi>The hap<g ref="char:EOLhyphen"/>py Way<g ref="char:punc">▪</g>
+               </hi> in three generall Partitions, The firſt of <hi>Terreſtriall,</hi> The ſecond of <hi>Morall,</hi> And the third of <hi>Divine</hi> happineſſe on Earth. And further, de<g ref="char:EOLhyphen"/>vided the ſame in divers particular Sections: I have new lately for ſome Reaſons abſtracted and new ſtudied out of the ſame, (but in a different manner and method, and with divers alterations and additions,) Three little Generall Treatiſes, The firſt of Earthly happineſſe Entituled, <hi>The
+<pb facs="tcp:17154:3"/>
+Terreſtriall Paradice.</hi> The ſecond this of Morall happineſſe, Entituled, <hi>Pa<g ref="char:EOLhyphen"/>radice within vs.</hi> And the third of Divine happineſſe on Earth, Entitu<g ref="char:EOLhyphen"/>led <hi>Heaven within vs.</hi> The firſt and the third I have lately publiſh't, This having Relation to both the other, I thought not amiſſe to be impreſſed laſt of the three. Having beene en<g ref="char:EOLhyphen"/>couraged in the former, I doe intend hereafter to Review, new ſtudy, and publiſh the Reſt; Being a farre more particular and large diſcourſe of this Subject Happineſſe on Earth, and Phyſically, Philoſophically, Hiſtori<g ref="char:EOLhyphen"/>cally and Divinely digeſted. But, not entertaine you with a Prolix Pream<g ref="char:EOLhyphen"/>ble, Foraſmuch as the Preface to the Readers In the Terreſtriall Paradice may in divers reſpects bee applyed to this Booke alſo, without any further Introduction, I proceed.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:17154:3"/>
+            <head>THE CONTENTS OF the Booke.</head>
+            <list>
+               <item>
+                  <label>DIVIS. I.</label>
+THE felicity of a vertuous Mind.</item>
+               <item>
+                  <label>II.</label>
+How to gaine the ſame.</item>
+               <item>
+                  <label>III.</label>
+How the body worketh upon the Mind, And how we may and ought thereby to mainetaine and encreaſe the Felicitie thereof.</item>
+               <item>
+                  <pb facs="tcp:17154:4"/>
+                  <label>IV.</label>
+Directions concerning Phleg<g ref="char:EOLhyphen"/>maticke Complexions, and ſuch as are of ſlow, dull, lazie, heavie minds, exciting to Quickneſſe, Livelineſſe, and cheerefulneſſe.</item>
+               <item>
+                  <label>V.</label>
+Concerning Sanguine Comple<g ref="char:EOLhyphen"/>xions, And ſuch as are of In<g ref="char:EOLhyphen"/>temperate voluptuous minds; Alſo of conceited and vaine-glorious; Exciting to Meek<g ref="char:EOLhyphen"/>neſſe and Humility, alſo to moderate delectation.</item>
+               <item>
+                  <label>VI.</label>
+Of Chollericke Complexions, and ſuch as are of haughty Ambitious, Angry, Raſh, violent, furious minds, exci<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:17154:4"/>
+to Mildneſſe, Meek<g ref="char:EOLhyphen"/>neſſe, Moderation, and Tranquility, to affable, ſweet and pleaſing conditions.</item>
+               <item>
+                  <label>VII.</label>
+Of Melancholly Complexions; Of Covetous, fearefull, Sad, ſorrowfull Minds, exciting to moderate deſires, and con<g ref="char:EOLhyphen"/>tentment, to fortitude, cheer<g ref="char:EOLhyphen"/>fulneſſe, Ioy and happineſſe.</item>
+               <item>
+                  <label>VIII.</label>
+Of mixt Complexions, and va<g ref="char:EOLhyphen"/>rious minds; of ſuch as are of Envious, malicious, Re<g ref="char:EOLhyphen"/>vengefull, Cruell, obſtinate, froward, ſullen, deſperate minds; exciting to love, kind<g ref="char:EOLunhyphen"/>neſſe, Clemency, humanity and to all vertue, pleaſant<g ref="char:EOLhyphen"/>neſſe, delights and felicities.</item>
+               <item>
+                  <pb facs="tcp:17154:5"/>
+                  <label>IX.</label>
+That by vertue the mind be<g ref="char:EOLhyphen"/>comes apt, and well prepared to enjoy the choyceſt and ſweeteſt felicities on Earth.</item>
+               <item>
+                  <label>X.</label>
+That by vertue alſo, the Mind becomes apt and well diſpoſed to know, attaine, and enjoy (as farre as the ſame is capable) the felicities of Heaven on Earth.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:17154:5"/>
+            <head>PARADICE WITHIN US, OR, The happie Mind.</head>
+            <div n="1" type="part">
+               <head>
+                  <hi>THE I. DIVISION. Shewing briefly,</hi> The felicitie of a vertuous Mind.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE happie Mind, which in this com<g ref="char:EOLhyphen"/>pendious Treatiſe J intend to diſ<g ref="char:EOLhyphen"/>courſe of, is; That true Joy and Tranquillity
+<pb n="2" facs="tcp:17154:6"/>
+of ſpirit which is ſaid to be the fruit and Crowne of vertue or wiſdome, and by ſome Philoſo<g ref="char:EOLhyphen"/>phers, The ſoveraigne Good of Man.</p>
+               <p>It is an equall, firme, amia<g ref="char:EOLhyphen"/>ble, pleaſant and joyfull eſtate of the ſoule, whereby the ſame be<g ref="char:EOLhyphen"/>comes free from Sloth, from intemperate deſires and from all ill paſſions and perturbations; And poſſeſt with true wiſdome, lightſomneſſe, tranquillity, af<g ref="char:EOLhyphen"/>fability, pleaſantneſſe, and well prepared to enjoy (either in con<g ref="char:EOLhyphen"/>templation or action) the moſt delightfull felicities both Terre<g ref="char:EOLhyphen"/>ſtriall and Heavenly. So that while wee can maintaine our minds in this eſtate, wee may ſweetly enjoy even a Paradice of happineſſe within us.</p>
+               <q>
+                  <pb n="3" facs="tcp:17154:6"/>
+                  <l>Who traceth right in Vertues wayes</l>
+                  <l>moſt certainely ſhall find</l>
+                  <l>A Paradice of ſweeteſt joyes</l>
+                  <l>within his happie Mind.</l>
+               </q>
+               <p>But let us view the ſame more plainely.</p>
+               <p>The fountaine and object of this happineſſe in the Mind w<hi rend="sup">ch</hi> we now ſeeke for, is; Vertue, or true Wiſdome, the Compound, light, and directreſſe thereof, is Reaſon.</p>
+               <p>Vertue in generall is deſcri<g ref="char:EOLhyphen"/>bed to be, A laudable, pleaſant, and conſtant habit in the Mind, which being wrought in us by divine Reaſon impreſſeth in our underſtanding a perfect know<g ref="char:EOLhyphen"/>ledge of the true good, accor<g ref="char:EOLhyphen"/>ding whereunto as it is requiſite and expedient we muſt Love or hate, take or leave; The ſame being the never erring directrix
+<pb n="4" facs="tcp:17154:7"/>
+of our affections and actions, and alwayes rewarding us with internall Tranquillity, Ioy, and happineſſe.</p>
+               <p>More particularly, Vertue is uſually devided into foure prin<g ref="char:EOLhyphen"/>cipall Parts; namely, Prudence, Temperance, Fortitude, and Ju<g ref="char:EOLhyphen"/>ſtice: To which, all other ver<g ref="char:EOLhyphen"/>tues are ſubordinate and may be reduced. And from which (as from the maine branches there<g ref="char:EOLhyphen"/>of) they (as leſſer boughes) doe ſpring and proceed: All which with their peculiar definitions, deſcriptions, differences and kinds are at large deſcribed in the <hi>Ethicks,</hi> and are the ſubject of Morall Philoſophy.</p>
+               <p>A million of good and happy effects doth vertue produce in ſuch as doe conforme themſelves thereunto; The ſame inſtructeth
+<pb n="5" facs="tcp:17154:7"/>
+us to over-ſway and command all the Inclinations and Actions of the mindes irrationall parts, bridling and cutting off all both the exceſſes and defects of paſſi<g ref="char:EOLhyphen"/>ons and affections, keepeth them within the circle of mediocrity, directly betweene too much and too little; Expelleth out of the mind all vices, as Covetouſneſſe, Ambition, Intemperate deſires, Choller, Sloth, Melancholy; all baſe feare of danger and of death; and armeth with reſolu<g ref="char:EOLhyphen"/>tion and comfort, even againſt all manner of Tribulations.</p>
+               <p>The ſame alſo accompliſheth us with true and habituall Wiſ<g ref="char:EOLhyphen"/>dome, Verity, Sobriety, Magna<g ref="char:EOLhyphen"/>nimity, Confidence, Patience, Perſevera<g ref="char:cmbAbbrStroke">̄</g>ce, Honeſty, Gratitude, Humanity, Liberality, Clemen<g ref="char:EOLhyphen"/>cy, Courteſie, Affability, Cheere<g ref="char:EOLhyphen"/>fulneſſe,
+<pb n="6" facs="tcp:17154:8"/>
+Pleaſantneſſe, and all good and amiable conditions.</p>
+               <p>It is a light unto our life, ſhew<g ref="char:EOLhyphen"/>ing us that which is good and comely, and teaching us how to performe all good and laudable Actions. It giueth us alſo a will to all manner of goodneſſe, and to declare the ſame by a ſweet and loving Converſation.</p>
+               <p>Vertue alſo advanceth the mind and infuſeth thereinto, a generous deſire of aſpiring even to the higheſt part of that which is moſt excellent, moſt profita<g ref="char:EOLhyphen"/>ble, and moſt honourable; exci<g ref="char:EOLhyphen"/>ting the ſame to goe on con<g ref="char:EOLhyphen"/>ſtantly, freely, feareleſſely, and cheerefully (though through many dangers and difficulties) to all good and worthy Actions; Maketh a man truely worthy of honour; alwaies filleth the mind
+<pb n="7" facs="tcp:17154:8"/>
+with good and high reſolutions, and with inward delectation and happineſſe.</p>
+               <p>Soe as, there is nothing Ter<g ref="char:EOLhyphen"/>reſtriall that merits to bee in e<g ref="char:EOLhyphen"/>quipage with Divine vertue; The ſame is a daughter of Hea<g ref="char:EOLhyphen"/>ven, If wee could truely know the excellency thereof, we ſhould preſently commit our ſelves to her perfect guidance; we ſhould incontinently embrace the ſame with deereſt affections, And know that the Incirculing Armes of the whole world em<g ref="char:EOLhyphen"/>braceth nothing that is nigh ſo excellent as Divine vertue,</p>
+               <p>The ſame being a divine and Immortall quality in us, alwaies excites our minds to ſome good Action or other by an earneſt deſire to make the ſame agreea<g ref="char:EOLhyphen"/>ble unto God himſelfe, and to
+<pb n="8" facs="tcp:17154:9"/>
+obtain an Eternal guerdon given by him in the world to come, knowing there are ineſtimable Treaſures, Crownes of Glory; A Paradice of delights prepared in the Heavens, to reward ſuch as live a good and vertuous life on Earth.</p>
+               <p>And when we find within us that we haue done well, the ſame tickleth our affections with ſweet and pleaſant delectation, So that when wee find within us this heavenly Temper of a vertuous diſpoſition, and ſeeing that ther<g ref="char:EOLhyphen"/>by we often avoid evill and viti<g ref="char:EOLhyphen"/>ous Courſes, and often accom<g ref="char:EOLhyphen"/>pliſh good and worthy Actions; our minds are thereby filled with joy and pleaſure, even as the Sunne is with light, the choy<g ref="char:EOLhyphen"/>ſeſt flowers with fragrant ſmels, and the gay apparelled Spring<g ref="char:EOLhyphen"/>time
+<pb n="9" facs="tcp:17154:9"/>
+with greenneſſe.</p>
+               <p>There is a Congratulation, a pleaſing contentment in well-doing, It is a true and eſſentiall Reward of a good mans Soule, which never failes him.</p>
+               <p>So as the priviledge that ver<g ref="char:EOLhyphen"/>tue hath in rewarding her fol<g ref="char:EOLhyphen"/>lowers, is much greater then the world can afford, for the world at the beſt can give but fleeting, but tranſitory delights and the windy praiſes of men; But ſuch as are truely vertuous have grea<g ref="char:EOLhyphen"/>ter Rewards even within them<g ref="char:EOLhyphen"/>ſelves, for (beſides that vertuous men uſually live more health<g ref="char:EOLhyphen"/>fully, proſperouſly, honourably, pleaſantly and every way even outwardly more happily then vitious men) their vertue doth alwayes inwardly afford to their Mind &amp; Conſcience moſt ſweet
+<pb n="10" facs="tcp:17154:10"/>
+joyes and pleaſures, and hath alſo eternal glorious rewards aſſign'd for the ſame in the Heavens.</p>
+               <p>And albeit the body have its diſtinct pleaſures apart from the mind, yet cannot the ſame be either truely pleaſant or lau<g ref="char:EOLhyphen"/>dable if not contained within the precincts of vertue, which is the proper object of the minds happineſſe; Becauſe the ſame will otherwiſe breed much more diſpleaſure then content. But be<g ref="char:EOLhyphen"/>ing limitted within the bounds thereof are laudable and good to bee enjoyed; So as it is indeed this vertuous habit of the mind onely that well prepares the ſame and makes us truely enjoy all Corporall and Terreſtriall happineſſe alſo, for vertue i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Rule and guide of all ſenſuall and externall pleaſures, ſo as
+<pb n="11" facs="tcp:17154:10"/>
+thereby and within the limits thereof we may and ſhould freely and cheerefully (as in my former Booke J have dilated) enjoy the good and lawfull pleaſures and felicities of the world, even a Terreſtriall Paradice of delights, and Happineſſe within us.</p>
+               <p>Yea, by the guidance of this divine and immortall quality of vertue we may and ſhould be di<g ref="char:EOLhyphen"/>rected the way to GOD himſelfe, to Heaven, and even in this life thereby we doe become moſt apt and well prepared to enjoy a Pa<g ref="char:EOLhyphen"/>radice of heavenly delights alſo within us.</p>
+               <p>For why; Wiſedome which is compounded of all the other vertues of the intellectuall ſoule, ſhewes and perſwades us to love and embrace that which is truly good, and principally that w<hi rend="sup">ch</hi> is
+<pb n="12" facs="tcp:17154:11"/>
+moſt good; But the moſt excel<g ref="char:EOLhyphen"/>lent good is God himſelf, where<g ref="char:EOLhyphen"/>fore true Wiſdome or Vertue re<g ref="char:EOLhyphen"/>ferres it ſelfe and all its faculties and exerciſes to him and to his Glory; he being the Fountain or rather the Ocean of all true plea<g ref="char:EOLhyphen"/>ſure and happineſſe: To whom, and to which, True Wiſedome alſo perſwades and directs us the way which is by divine Grace, and chiefly the principall and fountaine of heavenly Gra<g ref="char:EOLhyphen"/>ces; Namely, Faith, Hope, and Charity.</p>
+               <p>This habit of vertue alſo doth well prepare the mind, and ma<g ref="char:EOLhyphen"/>keth the ſame apt to receive, con<g ref="char:EOLhyphen"/>ceive and retain all heavenly gra<g ref="char:EOLhyphen"/>ces &amp; happineſſe, all divine Illu<g ref="char:EOLhyphen"/>minations, and Conſolations. So that if our faith and hope bee high and heavenly enough, and
+<pb n="13" facs="tcp:17154:11"/>
+our Minds pure and divine e<g ref="char:EOLhyphen"/>nough, we may by Contempla<g ref="char:EOLhyphen"/>tion (in ſome meaſure before<g ref="char:EOLhyphen"/>hand) enjoy heavenly delights and pleaſures within us. But of this more hereafter.</p>
+               <p>Let us therefore ſpare no la<g ref="char:EOLhyphen"/>bours, no endeavours to gaine this excellent treaſure of Vertue, Let our deſires and our deſignes be wholly employed in the ac<g ref="char:EOLhyphen"/>quiring of it, ſince by the gui<g ref="char:EOLhyphen"/>dance thereof wee are directed the way to mount up to heaven and in the meane time thereby enjoy a marvailous deale of hap<g ref="char:EOLhyphen"/>pineſſe on Earth, even a Paradice of delights and pleaſures both terreſtriall &amp; heavenly within us.</p>
+               <q>
+                  <l>Since that in vertue is ſuch Mines</l>
+                  <l>of moſt excelling Treaſures</l>
+                  <l>And choiſe delights, let our deſignes</l>
+                  <l>bee bent to gaine her pleaſures.</l>
+                  <l>
+                     <pb n="14" facs="tcp:17154:12"/>Let her delights allure and winne us</l>
+                  <l>ſtill to acquire, to finde</l>
+                  <l>This pleaſant Paradice within us,</l>
+                  <l>this joyfull happie Mind.</l>
+               </q>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>THE II. DIVISION.</hi> How to gaine this felicity of the Mind.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the acquiſition of vertue which is this hippineſſe of the Mind we ſeeke for, Theſe three things are eſpecially requiſite. Firſt, E<g ref="char:EOLhyphen"/>ducation to incline us. Second<g ref="char:EOLhyphen"/>ly, Reaſon to direct us. Thirdly, Exerciſe and Cuſtome to con<g ref="char:EOLhyphen"/>forme and confirme us.</p>
+               <p>Firſt, concerning Education.</p>
+               <p>
+                  <pb n="15" facs="tcp:17154:12"/>Youth may be compared to a Field, which if well manurd and ſowne with good ſeed, bringeth forth good fruit; But if neglec<g ref="char:EOLhyphen"/>ted, therein ſpringeth up many ill weeds; Even ſo, if we be well educated, if the ſeeds and funda<g ref="char:EOLhyphen"/>mentall parts and habits of ver<g ref="char:EOLhyphen"/>tue be well ſowne in our hearts at firſt, the ſame is likely to ſpring up and become deepely rooted and even naturall in us; Whereas otherwiſe without this good education, vice and wic<g ref="char:EOLhyphen"/>kedneſſe is like to ſpring abun<g ref="char:EOLhyphen"/>dantly in our depraved and cor<g ref="char:EOLhyphen"/>rupted Minds.</p>
+               <p>Education therefore is very neceſſary: In youth our natures are eaſily moulded to what frame our Parents and Tutors will, whoſe opinions (like Ora<g ref="char:EOLhyphen"/>cles) doe then altogether ſway
+<pb n="16" facs="tcp:17154:13"/>
+our minds, yet weake and not allur'd to Vices nor troubled by Temptations. And if we be in our tender yeares taught to be vertuous and to abhorre all vi<g ref="char:EOLhyphen"/>ces as Prodigies and things unu<g ref="char:EOLhyphen"/>ſuall, The ſame will then bee ſo ingrafted in our nature as ver<g ref="char:EOLhyphen"/>tue will be even habitually love<g ref="char:EOLhyphen"/>ly and pleaſant to us, and Vice hatefull and loathſome, Inſo<g ref="char:EOLhyphen"/>much as even till old age many men doe retaine in them the ſame love to vertue and hatred to vice as they did in youth, which then alſo is much encreaſed by Reaſon and good Cuſtome.</p>
+               <p>It is good therefore, that vices be named to children and youth in a ſhamefull diſdainefull man<g ref="char:EOLhyphen"/>ner, and to hide from them the ſhameleſſe practice thereof, by many in our diſſolute age, even
+<pb n="17" facs="tcp:17154:13"/>
+without infamy, yea with ap<g ref="char:EOLhyphen"/>plauſe by ſome vitious minded men. Alſo to let them thinke (as it were to be wiſh't) that all men hated Vice and wicked<g ref="char:EOLhyphen"/>neſſe, and often to diſcourſe of the puniſhments and miſeries inflicted, and due for the ſame. Alſo to ſhew and often com<g ref="char:EOLhyphen"/>mend unto them the amiable<g ref="char:EOLhyphen"/>neſſe, pleaſantneſſe, excellency, and Rewards of all vertue and goodneſſe.</p>
+               <p>It is certainely better, that children bee Inſtructed rather mildly and by Encouragements (if it may be) then with trouble and ſeverity; for whatſoever we doe for feare of puniſhment, our nature (with a kind of loathing) uſeth to be averſe from the ſame things afterwards, and the ha<g ref="char:EOLhyphen"/>tred received againſt the ſame in
+<pb n="18" facs="tcp:17154:14"/>
+youth may be retayned even to old age. But in this Diſcipline of Tender Youth, rewards, Pray<g ref="char:EOLhyphen"/>ſes and encouragements for well doing doe ſweetly kindle in us a deſire to learne and to doe well in all things, and this learning and vertuous diſpoſition ſo gai<g ref="char:EOLhyphen"/>ned, is willingly loved, eaſily retayned, and encreaſed in after<g ref="char:EOLhyphen"/>times by Reaſon and good cu<g ref="char:EOLhyphen"/>ſtome ſo that as their yeeres their vertue encreaſeth, and repleni<g ref="char:EOLhyphen"/>ſheth their minds with internall Joy and happineſſe.</p>
+               <p>Secondly, Reaſon ought to direct us in this acquiſition of Divine vertue, for Reaſon is the light and life of vertue, and as our eyes doe ſerue to guide our bodies, ſo haue our ſoules great need of Reaſons light to diſcerne
+<pb n="19" facs="tcp:17154:14"/>
+vertue from vice, True good from deceipt and forgery.</p>
+               <p>And even in Reaſon, vertue appeares eaſie, amiable, and plea<g ref="char:EOLhyphen"/>ſant; And vice painfull, loathſom and diſpleaſant; (It is onely an evill Cuſtome that makes vice ſeeme pleaſing, and vertue diſ<g ref="char:EOLhyphen"/>pleaſing) for the eſſentiall part of vertue is ſaid to be truth and of vice falſe-hood, and it is more eaſie and pleaſant in Reaſon to tell truth then a lye; and ſo of all particulars in Reaſon Vice appeares painefull, hatefull, hurt<g ref="char:EOLhyphen"/>full; and vertue eaſie, louely, pleaſant and beneficiall, as I ſhall ſhew more plainely in the enſu<g ref="char:EOLhyphen"/>ing Diviſions.</p>
+               <p>Let therefore Reaſon informe our Judgements, and both of them guide and inſtruct our wils; for the will hath not any
+<pb n="20" facs="tcp:17154:15"/>
+light from her ſelfe, but is illu<g ref="char:EOLhyphen"/>minated onely by the ſhining Rayes of the underſtanding; That is by reaſon and judgment; yet the act of the will is from it ſelfe though it bee directed by the underſtanding.</p>
+               <p>Wherefore, if the will of man doe conjoyne it ſelfe with reaſon in the perſuite of vertue, then with great facility it is able to governe the ſenſuall Parts as a Lady and Miſtreſſe within the precincts of divine Vertue.</p>
+               <p>But if our wills diſdainefully contemne Reaſons Councels, and if in ſtead of mounting aloft to the divine excellency thereof, it deſcends towards the ignoble part of intemperate ſenſuality, and if it dedicates, &amp; conjoyns it ſelfe thereunto, it then becomes like her brutiſh Companion, and
+<pb n="21" facs="tcp:17154:15"/>
+in ſtead of being the Comman<g ref="char:EOLhyphen"/>der, now becomes the ſlave of the body and conſequently both of them ignoble and brutiſh; whereas otherwiſe, if the Will doe chuſe to obey Reaſon rather then Paſſions, and ſo preferre Heaven before the Earth, the ſame doth make not onely it ſelf but even thoſe ſenſuall parts (which it then commandeth as a Miſtreſſe) to become Divine and celeſtiall, and the whole Mind to be filled with true joy and felicity.</p>
+               <p>For certainly, if wee will be guided by the divine light of Reaſon, wee ſhall plainly ſee; That vertue is inwardly moſt excellent, pleaſant, lovely and delightfull; alwayes crowning the followers thereof with true pleaſure, even with a Paradice
+<pb n="22" facs="tcp:17154:16"/>
+of delights and happineſſe.</p>
+               <p>Then alſo ſhould we plainly ſee (of which more hereafter,) That vice and wickedneſſe (how<g ref="char:EOLhyphen"/>ever painted over with the gay out-ſide of oſtentation and hy<g ref="char:EOLhyphen"/>pocriſie, of ſeeming felicity) is indeed moſt deceitfull, inward<g ref="char:EOLhyphen"/>ly all deformed and loathſom, al<g ref="char:EOLhyphen"/>wayes ingendring and breeding diſcontent and ſorrow; Rewar<g ref="char:EOLhyphen"/>ding at laſt the followers thereof with a multitude of griefes, per<g ref="char:EOLhyphen"/>turbations and miſeries.</p>
+               <p>Inſomuch, that if wee would indeed be directed by reaſons divine Councels, wee ſhould greatly deteſt and immediatly forſake all vice and wickedneſſe; wee ſhould then preſently be enamour'd with divine Vertue; embracing the ſame with ſwift deſires, with open armes, and
+<pb n="23" facs="tcp:17154:16"/>
+Rejoycing therein with moſt pleaſant delights and happineſs.</p>
+               <p>Thirdly, Exerciſe and Cu<g ref="char:EOLhyphen"/>ſtome is neceſſary to conforme and confirme us in this vertuous and happie Way; for continu<g ref="char:EOLhyphen"/>all uſe of the Mind in vertues divine Pathes doth deeply im<g ref="char:EOLhyphen"/>preſſe the ſame therein; ſo as it becommeth thereby more excel<g ref="char:EOLhyphen"/>lent, and even habituall in us: And to ſuch as are truly accu<g ref="char:EOLhyphen"/>ſtomed to vertue, the ſame be<g ref="char:EOLhyphen"/>comes moſt eaſie, pleaſant and delightfull.</p>
+               <p>Wherefore wee are; Firſt, to avoid Sloth and Idleneſſe in our ſelves; Secondly, the idle, un<g ref="char:EOLhyphen"/>profitable and dangerous Com<g ref="char:EOLhyphen"/>pany of vicious men, both as hinderances to this vertuous Ex<g ref="char:EOLhyphen"/>erciſe
+<pb n="24" facs="tcp:17154:17"/>
+and Cuſtome. Thirdly, in all our endeavours herein we are to make a good uſe of all acci<g ref="char:EOLhyphen"/>dents, of our owne experience and of the examples of others. Four<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly, in all reſpects well to uſe and imploy our time herein. And fifthly, to goe on with due Perſeverance towards the perfe<g ref="char:EOLhyphen"/>ction of vertue and happineſſe; of all which more plainly, yet briefly.</p>
+               <p>Firſt, let us contemne Sloth and Idleneſſe as an hinderance to this vertuous exerciſe; for why, ſuch as lead their lives in lazy ſlothfulneſſe, doe much en<g ref="char:EOLhyphen"/>damage not onely the health of their bodies dulling and pu<g ref="char:EOLhyphen"/>trifying the ſame but alſo their minds, which are thereby alſo ſoone corrupted with ſottiſh dulneſſe and evill thoughts, e<g ref="char:EOLhyphen"/>ven
+<pb n="25" facs="tcp:17154:17"/>
+as water in a ſtanding Poole ſoone becomes muddy and noy<g ref="char:EOLhyphen"/>ſome; for when the mind is not buſied in ſome laudable thoughts or actions, either <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lazy dulneſſe, evill deſires or ſul<g ref="char:EOLhyphen"/>len ſadneſſe, commonly creepes in and hinders the ſame in all goodneſſe, in all happineſſe; And on the contrary, let us en<g ref="char:EOLhyphen"/>deavour with an active, quicke, ſtirring and lively Spirit to goe on in all vertuous and happy wayes.</p>
+               <p>Secondly, we are to avoid all dangerous, idle, and unprofita<g ref="char:EOLhyphen"/>ble company as an hinderance to this good uſe and exerciſe of vertue and happineſſe; The rather, becauſe evill examples are notable Corrupters of civill demeanours and dangerous de<g ref="char:EOLhyphen"/>pravers of a good diſpoſition,
+<pb n="26" facs="tcp:17154:18"/>
+and on the contrary let us fre<g ref="char:EOLhyphen"/>quent and be inwardly familiar with, onely ſuch company as are good and vertuous.</p>
+               <p>Thirdly, let us endeavour by all accidents, by our owne expe<g ref="char:EOLhyphen"/>rience and by the examples of others, to avoid all vices and miſeries and to embrace all ver<g ref="char:EOLhyphen"/>tue and happineſſe in all our endeavours while we goe on in theſe vertuous Wayes and Exer<g ref="char:EOLhyphen"/>ciſes. Then which there cannot be a more familiar, plaine, eaſie and uſefull doctrine.</p>
+               <p>Fourthly, in generall. Let us ſtill remember to imploy our time well in ſuch things as are good and profitable; The rather conſidering, that nothing is more precious then time on which dependeth the accom<g ref="char:EOLhyphen"/>pliſhment of all our affaires and
+<pb n="27" facs="tcp:17154:18"/>
+actions, and which if we neglect can never be recalled.</p>
+               <p>And laſtly, let us forward all good beginnings in this exer<g ref="char:EOLhyphen"/>ciſe with due perſeverance. So will this excellent Treaſure of Vertue, this happineſſe of the Mind which we ſeeke for, be in good time ſo deepely impreſſed in our Minds as the ſame will even become naturall, habituall, very eaſie and pleaſant to us.</p>
+               <p>By this diſcourſe wee may perceive; That next under GOD, all good beginnings in this bleſſed way of Vertue, pro<g ref="char:EOLhyphen"/>ceed from Education. The hap<g ref="char:EOLhyphen"/>py progreſſe and ample encreaſe thereof, from Reaſons, Precepts, and the confirmation and full accompliſhment thereof from uſe and exerciſe.</p>
+               <p>So then, let us goe on in this
+<pb n="28" facs="tcp:17154:19"/>
+happy way of vertue, which cer<g ref="char:EOLhyphen"/>tainely will leade us in good time, to that Paradice of perfec<g ref="char:EOLhyphen"/>tion, whoſe entertainement, is true pleaſure, true happineſſe.</p>
+               <q>
+                  <l>So if our ſoules were truely wiſe</l>
+                  <l>to ſeeke out vertues wayes.</l>
+                  <l>We then ſhould find a Paradice</l>
+                  <l>of pleaſant ſweeteſt joyes.</l>
+               </q>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>THE III. DIVISION.</hi> How the Body worketh upon the Mind, and how wee may and ought thereby to maine<g ref="char:EOLhyphen"/>taine and encreaſe the felicity thereof.</head>
+               <p>
+                  <seg rend="decorInit">A</seg> Well tempered healthy body is an occaſion of a long and happy life,
+<pb n="29" facs="tcp:17154:19"/>
+wherein we may enjoy this Pa<g ref="char:EOLhyphen"/>radice within us which we ſeeke for; And the mind thereby will become well prepared and fitted for all vertuous Diſpoſiti<g ref="char:EOLhyphen"/>ons, exerciſes, and Contempla<g ref="char:EOLhyphen"/>tions, and to enjoy all the felici<g ref="char:EOLhyphen"/>ties thereof, both earthly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heavenly.</p>
+               <p>Let us therefore by all meanes ſeeke to preſerve the welfare of our bodies, ſince the ſame is ſo great a furtherance to the felici<g ref="char:EOLhyphen"/>ty of the mind; And the rather becauſe otherwiſe, if the body be unhealthy and diſtempered the ſame will bee a burthen to the mind whoſe Inſtrument it is, and ſo hinder it in the perfor<g ref="char:EOLhyphen"/>mance of all excellent matters, and in the poſſeſſion and enjoy<g ref="char:EOLhyphen"/>ance of all delights and happi<g ref="char:EOLhyphen"/>neſſes both earthly and heaven<g ref="char:EOLhyphen"/>ly,
+<pb n="30" facs="tcp:17154:20"/>
+and inſtead thereof cauſe therein much diſtemper, pertur<g ref="char:EOLhyphen"/>bation, diſcontent, evill and miſery.</p>
+               <p>Becauſe this matter is of great conſequence, I ſhall briefely en<g ref="char:EOLhyphen"/>deavour to ſhew how the body thus worketh upon the mind.</p>
+               <p>That the humours of the body are an occaſion of Paſſions and perturbations of the mind, is a received ground among all Phy<g ref="char:EOLhyphen"/>ſitians and Philoſophers. It is well knowne in Philoſophy, that the affections of the mind, doe follow the apprehenſions of the phanſie; And Phyſitians doe well know, that the apprehen<g ref="char:EOLhyphen"/>ſions of the Phanſie are confor<g ref="char:EOLhyphen"/>mable to the diſpoſitions of the body and the humours that are predominate therein.</p>
+               <p>They tell us and Experience
+<pb n="31" facs="tcp:17154:20"/>
+alſo teacheth us, that the Chole<g ref="char:EOLhyphen"/>ricke humours if exceſſive, being fiery and impetuous, make the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pprehenſion to bee ſwift and violent, exciting to Anger and Raſhneſſe; The Melancholy being cold and dry, bring feare, ſorrow, and darke thoughts. Phlegme being cold and moyſt, maketh the apprehenſion to be<g ref="char:EOLhyphen"/>come dull, ſlow and without vi<g ref="char:EOLhyphen"/>gour; And too much bloud be<g ref="char:EOLhyphen"/>ing hot and moyſt, excites to ſenſuall Luſts, Prodigality, Riot, and the like; A mixture of ex<g ref="char:EOLhyphen"/>ceſſive inflamed and corrupted Choller, Melancholy, and other humours, cauſeth the Phanſie to apprehend things, as having en<g ref="char:EOLhyphen"/>mity, excites to hatred, Revenge, Frowardneſſe, and to deſperate miſchiefes and miſeries.</p>
+               <p>So that it is apparant, the body
+<pb n="32" facs="tcp:17154:21"/>
+workes upon the Mind, and the exceſſive diſtempered humours thereof, doe alſo annoy and di<g ref="char:EOLhyphen"/>ſtemper the Mind, But how? Not by depriving it of any po<g ref="char:EOLhyphen"/>wer or faculty given it of GOD (as ſome ſay) which remaines without diminiſhing, but by corrupting the next inſtrument whereby the mind worketh, and conſequently the action it ſelfe, which commeth to paſſe by rea<g ref="char:EOLhyphen"/>ſon that the evill humours of the body, do ſend up groſſe and maligne fumes into the braine, annoying the animall Spirits which are moſt thinne and ſub<g ref="char:EOLhyphen"/>till vapours proceeding from the bloud, and the Inſtruments whereby the mind worketh and performeth the actions thereof.</p>
+               <p>Thoſe Spirits are a medium be<g ref="char:EOLhyphen"/>twixt the mind and the body as
+<pb n="33" facs="tcp:17154:21"/>
+ſome ſay; Others, that they parti<g ref="char:EOLhyphen"/>cipate of both, and being refined, enlivened, and quickned by the reaſonable and divine Soule, they become of a middle nature betweene Ayre and Flame; be<g ref="char:EOLhyphen"/>ing pure and undiſtempered they cauſe in the mind Tran<g ref="char:EOLhyphen"/>quility, Joy, and good deſires; The Ayrie part raiſing quicke pleaſing and delicate conceits in the Phanſie, and the Flame inci<g ref="char:EOLhyphen"/>ting noble and active deſires in the ſoule.</p>
+               <p>But theſe Spirits being di<g ref="char:EOLhyphen"/>ſtempered, dulled, and corrupted by the maligne fumes procee<g ref="char:EOLhyphen"/>ding from ill humours; The diſpoſitions and actions of the mind alſo by reaſon thereof will become corrupt and evill; for theſe animall Spirits (being the medium betwixt the body and
+<pb n="34" facs="tcp:17154:22"/>
+the mind, participating of both, and the next inſtrument where<g ref="char:EOLhyphen"/>by the mind and body worke upon each other) being cor<g ref="char:EOLhyphen"/>rupted and diſtempered; the mind therefore grieveth and di<g ref="char:EOLhyphen"/>ſtempereth it ſelfe at the diſtem<g ref="char:EOLhyphen"/>per of theſe Spirits, and ſo of the body; And therefore, cannot pleaſe it ſelfe or effect any ex<g ref="char:EOLhyphen"/>cellent matter, having ſuch di<g ref="char:EOLhyphen"/>ſtempered corrupted Inſtru<g ref="char:EOLhyphen"/>ments to worke withall. So that although the Spirit be willing, yet the Corruptions and weake<g ref="char:EOLhyphen"/>neſſe of the fleſh will pervert the actions thereof, and the dull diſtempered body cannot bee capable to effect or know the good dictates, operations, and Inducements of the ſoule; But both being annoyed by evill hu<g ref="char:EOLhyphen"/>mours and thoſe diſtempered
+<pb n="35" facs="tcp:17154:22"/>
+Spirits, become out of Temper and Corrupted.</p>
+               <p>It being apparant, that the body thus workes upon the mind, it is of very great Conſe<g ref="char:EOLhyphen"/>quence that we take diligent care of the good temper, health and welfare of our bodies.</p>
+               <p>The uſuall directions preſcri<g ref="char:EOLhyphen"/>bed to mainetaine our bodies in good health and due temper, are a convenient proportion and moderation in theſe which Phy<g ref="char:EOLhyphen"/>ſitians call the ſixe non-naturall Things, according to <hi>Galen's</hi> Diviſion. Which are, 1 Ayre. 2 Meate and Drinke. 3 Sleepe and watch. 4 Labour and reſt. 5 Emptineſſe and Repletion. 6 The affections and paſſions of the mind, All which are by divers Authors at large treated
+<pb n="36" facs="tcp:17154:23"/>
+of and deſcribed.</p>
+               <p>But for aſmuch as neither the matter of Diet nor the quantity thereof, nor the uſe and obſerva<g ref="char:EOLhyphen"/>tion of thoſe other non-naturall things, ought to be the ſame in all ſorts of people, but very different according to the di<g ref="char:EOLhyphen"/>verſity of Ages, Complexions, Conſtitutions, and the like. It is therefore good that every man be well skilled in the Tempera<g ref="char:EOLhyphen"/>ment of his body and mind, that he may be a Rule unto himſelfe in that which is beſt for him; Hence that Proverbe hath its probability; <hi>Every man is ey<g ref="char:EOLhyphen"/>ther a Foole or a Phyſitian.</hi>
+               </p>
+               <p>Let therefore every man ſur<g ref="char:EOLhyphen"/>vey himſelfe, and if he find the plight and ſtate of his body to be in equability and of a perfect Temper: Let him cheriſh and
+<pb n="37" facs="tcp:17154:23"/>
+preſerve himſelfe in this good eſtate, which is to be done by a due order, apt proportion, and convenient moderation of theſe things before mentioned; Name<g ref="char:EOLhyphen"/>ly (with little alteration accor<g ref="char:EOLhyphen"/>ding to that in <hi>Hippocrates</hi> Aphoriſme) Ayre, Meat, Drinke, Exerciſe, Sleepe, Venus, and affections of the Mind.</p>
+               <p>But if our bodies doe any way decline from a good Tem<g ref="char:EOLhyphen"/>per and Diſpoſition; Then had we need to recure the ſame by all good endeavours and Reme<g ref="char:EOLhyphen"/>dies.</p>
+               <p>To rectify therefore and re<g ref="char:EOLhyphen"/>medy the ill Temperament of our bodies; Let us obſerve theſe directions. Firſt, to forbeare and diſuſe ſuch things as are an oc<g ref="char:EOLhyphen"/>caſion of the diſtemper or any way hurtfull. Secondly, to
+<pb n="38" facs="tcp:17154:24"/>
+enjoyne our ſelves to a contrary order of Uſage and Diet. Third<g ref="char:EOLhyphen"/>ly, to evacuate and empty the body of ill humours, and of ſuch things as are an occaſion of the diſtemper. Of all which, I intend briefly to diſcourſe in the enſu<g ref="char:EOLhyphen"/>ing Diviſions in a mixt way ac<g ref="char:EOLhyphen"/>cording to the foure ſeverall Complexions, together with directions concerning the divers paſſions and affections of the mind, incident to each Com<g ref="char:EOLhyphen"/>plexion or humour abounding, tending to the eſchewing of the infelicity or miſery of the mind, and to encreaſe the felicity thereof.</p>
+               <p>But in the obſervation of the following Phyſicall directions we are to obſerve this Caution; That ſeeing the many and ſeve<g ref="char:EOLhyphen"/>rall Rules and obſervations
+<pb n="39" facs="tcp:17154:24"/>
+therein (though briefly) pre<g ref="char:EOLhyphen"/>ſcribed, we doe not too ſcrupu<g ref="char:EOLhyphen"/>louſly and preciſely tye our ſelves to ſuch a multitude of particulars, nor perplexe our ſelves in the obſervation therof, for why; thoſe good effects for which they are ſeverally pre<g ref="char:EOLhyphen"/>ſcribed, may be happily effected if we doe but obſerve ſome part of thoſe directions, ſo much onely as wee may with conve<g ref="char:EOLhyphen"/>niency. And J have the rather collected and mentioned ſo many and divers particulars, and many ſuch as are very common and eaſie to be attained and ob<g ref="char:EOLhyphen"/>ſerved, to the intent we may uſe ſuch and onely ſuch of them as we can with moſt conveniency attaine unto and thinke moſt-neceſſary.</p>
+               <p>Beſides, Phyſitians ſay; that
+<pb n="40" facs="tcp:17154:25"/>
+ſometimes to digreſſe herein is not amiſſe; So as the ſame be but ſeldom, and ſo as we uſually apply our ſelves to a temperate and convenient Diet, otherwiſe by a continuall and conſtant too preciſe and ſtrict (though good) diet and cuſtome, the ſtomacke will not be able to endure occa<g ref="char:EOLhyphen"/>ſionall errours; And ſometimes Changes and Varieties though in ſome reſpects inconvenient, doe whet and provoke the ſtomacke to good digeſtion. Yet certainely it is very good to know even preciſely what is moſt fit and convenient for us. And as at a marke moſt uſually to direct our minds thereunto; And alſo as neare as wee may conveniently without too much niceneſſe to obſerve the ſame, and to apply our ſelves moſt
+<pb n="41" facs="tcp:17154:25"/>
+willingly thereunto, knowing the good effects thereof which are many and of great conſe<g ref="char:EOLhyphen"/>quence both to the welfare of the body and happineſſe of the Mind.</p>
+               <p>For by ſuch a due convenient order and diet, many Diſeaſes and Infirmities may bee pre<g ref="char:EOLhyphen"/>vented; And ſuch as have already ſeiſed upon us may by this meanes be cured or at leaſt mittigated; Thereby alſo the body becomes in good ſtate and temper, and is made healthy, agill, and apt to performe all the motions and offices belonging thereunto.</p>
+               <p>Sound and quiet ſleepe is thereby alſo cauſed, and likewiſe a good ſtomacke, ſo as meat and drinke becomes moſt pleaſant to us alſo well digeſted, and
+<pb n="42" facs="tcp:17154:26"/>
+good bloud humours and ſpirits ingendred, Life it ſelfe is thereby prolonged. And by reaſon thereof uſually enſues a quiet and happy diſſolution.</p>
+               <p>The Sences and Memory are thereby alſo made ſound and cleere; The affections and paſ<g ref="char:EOLhyphen"/>ſions well tempered, and the whole mind made free, cheere<g ref="char:EOLhyphen"/>full and apt to performe the exerciſes and functions thereof, And during life to enjoy all good pleaſures both Terreſtriall and heavenly.</p>
+               <q>
+                  <l>He then who would</l>
+                  <l>this happy mind enjoy</l>
+                  <l>Should keepe his body</l>
+                  <l>well without annoy,</l>
+                  <l>So may his mind become</l>
+                  <l>prepared well</l>
+                  <l>For vertues happineſſe</l>
+                  <l>therein to dwell;</l>
+                  <l>
+                     <pb n="43" facs="tcp:17154:26"/>The ſweeteſt joyes</l>
+                  <l>hee's fit and apt to gaine,</l>
+                  <l>A Paradice of pleaſures</l>
+                  <l>to obtaine.</l>
+               </q>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>THE IV. DIVISION.</hi> Directions concerning Phleg<g ref="char:EOLhyphen"/>maticke Complexions, ſuch as are of Slow, Dull, Idle, heavie minds, exciting to Quick<g ref="char:EOLhyphen"/>neſſe, Livelineſſe and Cheerefulneſſe.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch therefore as the diſpoſition, welfare and felicity of the mind doth very much agree to and in ſome ſort depend upon the Tempera<g ref="char:EOLhyphen"/>ture of the body, as hath beene declared, I ſhall in the follow<g ref="char:EOLhyphen"/>ing
+<pb n="44" facs="tcp:17154:27"/>
+Diviſions briefly diſcourſe of the principall paſſions and affections of the Mind, obſer<g ref="char:EOLhyphen"/>ving a method therin according as the ſame are moſt incide<g ref="char:cmbAbbrStroke">̄</g>t to the foure ſeverall humours and com<g ref="char:EOLhyphen"/>plexions, preſcribing ſome mixt directions both Phyſically and Philoſophically; and ſometimes perchance alſo Divinely, for Di<g ref="char:EOLhyphen"/>vinity doth likewiſe much en<g ref="char:EOLhyphen"/>creaſe the Morall happineſſe of the Mind.</p>
+               <p>Firſt, concerning ſuch in whom the humour of Phlegme doth a<g ref="char:EOLhyphen"/>bound, which is a cold and moyſt humour: Theſe men if they adict themſelves to vertue and goodneſſe, are commonly gentle, quiet, free from choller and anger, civill, honeſt, and harmeleſſe people: But if to vi<g ref="char:EOLhyphen"/>cious
+<pb n="45" facs="tcp:17154:27"/>
+Courſes, they become Careleſſe, Inconſiderate, lazy Drones, Dull, Sottiſh, Heauy, Ignorant, Forgetfull, Low-ſpi<g ref="char:EOLhyphen"/>rited, and of weake apprehen<g ref="char:EOLhyphen"/>ſion; full of baſe ſordid luſts and affections; Hating the moſt ex<g ref="char:EOLhyphen"/>cellent vertues, and alſo vertu<g ref="char:EOLhyphen"/>ous men, becauſe their Sottiſh Lazy dulneſſe, and Careleſſeneſſe makes them uncapable or unfit to conceive or equall the others vertues and worth.</p>
+               <p>Wherefore ſuch as are of a Phlegmaticke Complexion; To keepe themſelves in as good temper of body &amp; mind as they may, to prevent or mitigate cold and moiſt diſtempers, as Rheums Diſtillations, Catarrhes and a multitude of maladies proce<g ref="char:EOLhyphen"/>ding from thence, to which they are moſt ſubject alſo
+<pb n="46" facs="tcp:17154:28"/>
+To rectifie, refine and reduce to a better temper, their over-cold, moyſt and groſſe humours and ſpirits, and to quicken, revive, elevate and cheere their ſlow, dull, heavie minds, making the ſame apt to enjoy all happineſs; Let them obſerve ſuch directi<g ref="char:EOLhyphen"/>ons as follow.</p>
+               <p>Firſt Phyſically, Let them if it be requiſite in the Spring, and Autumne, purge out thoſe over-cold and tough humours in the body by ſuch meanes as are ap<g ref="char:EOLhyphen"/>propriated for this purpoſe, and as the learned Phyſitian ſhall ad<g ref="char:EOLhyphen"/>viſe them, and alſo diminiſh and conſume the ſame by aver<g ref="char:EOLhyphen"/>tors and Correctors of ſuch Phlegmaticke humours, and ex<g ref="char:EOLhyphen"/>tenuating and digeſting the ſame by the diſtilled waters of
+<pb n="47" facs="tcp:17154:28"/>
+ſuch Hearbs as heate and dry, but eſpecially by avoyding ſuch a cold and moiſt kind of diet as is hurtfull to this Complexion, and uſing a contrary, good, and Temperate diet and Cuſtome.</p>
+               <p>Let them therefore as much as they may, in a convenient manner without too much nice<g ref="char:EOLhyphen"/>neſſe and perplexity eſchew ſuch cold and moiſt things as are hurtfull, Such as are cold water, and hearbs which are moiſt and cold in operation, as Lettuce, Sorrell, Endive, Succory, Cucu<g ref="char:EOLhyphen"/>mers, and the like; alſo Fiſh, cold raw milke, and all kinds of crude raw over-moiſt cold dyet; Let them alſo avoid vnuſuall cold and moiſt Aire, much ſleepe, I<g ref="char:EOLhyphen"/>dleneſſe, ſottiſhneſſe and lum<g ref="char:EOLhyphen"/>piſhneſſe.</p>
+               <p>Alſo, they are to apply them<g ref="char:EOLhyphen"/>ſelves
+<pb n="48" facs="tcp:17154:29"/>
+to a contrary order of Diet and cuſtome, ſuch eſpecially as is moderately hot and dry.</p>
+               <p>Let them ſometimes (eſpecially, in winter) uſe ſpices, as Nutmegs Cloves, Macis, Ginger, (eſpeci<g ref="char:EOLhyphen"/>ally greene Ginger and condite in honey) Caſſia, Cinamon and the like, ſtamped into Powder reduced into Syrrups, or other<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p>Raiſens alſo and Currans doe moderately humect and calefie, as alſo Honey; likewiſe Al<g ref="char:EOLhyphen"/>monds, Nuts and Filberds, ſo as they be eaten ſparingly are good for them.</p>
+               <p>Anacardus is very good to diſſolve Phlegme, that is cold moiſt and viſcous, Inſomuch as it is ſaid, It reſtoreth them that are ſtricken with an Appoplexy, and that the ſame effect may be
+<pb n="49" facs="tcp:17154:29"/>
+brought to paſſe with Oximell, Scillet, and Aquavitae, wherein a few graines of Rocket may be ſteeped.</p>
+               <p>Embrocations and brothes pro<g ref="char:EOLhyphen"/>fit much if they be made of the flowers of Meliot and Camo<g ref="char:EOLhyphen"/>mill, alſo Marjoram, Origan, Bettony, Sage, Lawrell-leaves, Fennell, Parcelly and ſuch like. Confection made with Baulme, Hyſſope, Savory, Stychas; alſo Bettony, Cowſlips, Marjoram, Penny Royall, young Creſſes, Germander, Angelico, Vervin, Setwell, Mirrhe, Pepper-wort, Baſill-rootes and all ſuch hearbs and rootes as are hot and dry in operation, are good for this pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>Alſo, it is good to eate ſuch Diet as is eaſie of digeſtion, dry and warme; not too fat and
+<pb n="50" facs="tcp:17154:30"/>
+foggy, Meat roaſted rather then ſod, Bread white and well baked; To uſe commonly ſuch Beere as is cleere, ſomwhat ſtale and well hopt, their Wine to be pure, thin and piercing, as white-Wine and old Sacke. It is good for them to eate bur ſparingly, eſpecially at Supper, and to eate a Cruſt or ſome other hard and dry morſell at the end of a Meale after Drinke.</p>
+               <p>It is alſo good for them to uſe commonly in a warm and cleere Ayre; Not to ſleepe too much; To riſe early, eſpecially in the Spring and Summer; To ſtretch the Body every morning, often to uſe exerciſe and moving of the Body; Eſpecially, ſuch exer<g ref="char:EOLhyphen"/>ciſes as quicken and recreate the Spirits aſwell as the Body. Dancing, Shooting, Riding
+<pb n="51" facs="tcp:17154:30"/>
+Bowling, Tennis, Stoole-ball, Running, and all ſtirring Exer<g ref="char:EOLhyphen"/>ciſes; It is good for them to endeavour by all meanes to be of a quicke and ſtirring diſpoſition of Body and Mind, and often to ſollace the ſame with active and pleaſant Sports, Recreations, and Contemplations.</p>
+               <p>Theſe, or ſome of theſe Di<g ref="char:EOLhyphen"/>rections if but obſerved in a convenient manner without per<g ref="char:EOLhyphen"/>plexity or much niceneſſe, may doe them much good, for by theſe meanes the ſuperfluous hu<g ref="char:EOLhyphen"/>midity, and moyſture of the Braine, and the Cold, Raw, Crude, Phlegme in the ſtomack will be diſſolved and conſumed, and conſequently the obſtructi<g ref="char:EOLhyphen"/>ons and diſtempers cauſed ther<g ref="char:EOLhyphen"/>by will be removed; The paſſa<g ref="char:EOLhyphen"/>ges of the Spirits made free, and
+<pb n="52" facs="tcp:17154:31"/>
+the Spirits themſelves rarified and brought to their right qua<g ref="char:EOLhyphen"/>lity; Alſo the memory and un<g ref="char:EOLhyphen"/>derſtanding cleered; In ſumme: The whole Body and Mind made free, cleere, quickned, reduced to, and maintained in a good tem<g ref="char:EOLhyphen"/>per and diſpoſition, and ſo apt and well prepared to enjoy all true happineſſe.</p>
+               <p>Secondly, Philoſophically; For Remedies againſt thoſe Slow, Dull, Careleſſe, Sottiſh, lazy Humours and Diſpoſitions, Let us firſt conſider the miſeries thereof briefly; The ſame are the fountaines of Poverty, of baſe-mindedneſſe, and contemp<g ref="char:EOLhyphen"/>tible conditions. If wee could truely conſider how much hap<g ref="char:EOLhyphen"/>pineſſe we may attaine unto in a life time by being Diligent,
+<pb n="53" facs="tcp:17154:31"/>
+Carefull, Active, Conſiderate, and induſtrious, and how much miſery we may bring upon our ſelves by Sloth, Sottiſhneſſe, and Careleſſeneſſe; The ſame would plainely appeare to be a very great hinderance of happineſſe and a very great miſchiefe and miſery.</p>
+               <p>Idleneſſe and Sloth doe very much annoy both the Body and Mind; for want reaſon thereof the Body for want of exerciſe com<g ref="char:EOLhyphen"/>monly becomes filled with pu<g ref="char:EOLhyphen"/>trified and groſſe humours, with Crudities, Obſtructio<g ref="char:cmbAbbrStroke">̄</g>s, Rheumes and very ſubject to all the Diſ<g ref="char:EOLhyphen"/>eaſes ſpringing from thence. The ſame dulleth the ſpirits, cau<g ref="char:EOLhyphen"/>ſing Melancholly, Sadneſſe, Pee<g ref="char:EOLhyphen"/>viſhneſſe, ſullen fits, and a mul<g ref="char:EOLhyphen"/>titude of evill thoughts, feares, and perplexities, all which are
+<pb n="54" facs="tcp:17154:32"/>
+familiar to idle ſlothfull perſons.</p>
+               <p>Sloth and Idleneſſe is the bane of all goodneſſe, profit and worthy actions, cauſing griefe, irkeſomneſſe, and hindering all true joy and pleaſure in all good wayes.</p>
+               <p>Let us therefore deteſt the ſame, let us ſcorne to live in the world like heavie, lumpiſh, care<g ref="char:EOLhyphen"/>leſſe, ſlow, lazy ſotts and blocks, as if wee were borne to no other end, but to come into the world, ſtay there a while, eate, drinke, ſleepe, grow ſicke and dye.</p>
+               <p>And let us endeavour by all meanes to ſtirre up our minds to the Contemplation of high and notable things, To have variety of noble and excellent thoughts within us. To apply our ſelves to the acquiſition of all heroicall vertues, eſpecially thoſe of Pru<g ref="char:EOLhyphen"/>dence
+<pb n="55" facs="tcp:17154:32"/>
+and Fortitude, to ſcorne and deſpiſe low unworthy mat<g ref="char:EOLhyphen"/>ters, and to dedicate our ſelves to worthy, difficult and notable actions.</p>
+               <p>To eſteeme our ſelves free and at will, To endeavour on good grounds to bee reſolute, wilfull, magnanimous, and to ſtand upon our owne bottomes; To arme our ſelves againſt the worſt of fortune; To endeavour to imitate the beſt and worthi<g ref="char:EOLhyphen"/>eſt men in their moſt ſublime and excellent actions; Greatly to deſire and endeavour to be quicke and high ſpirited; Me thinks ſuch Conſiderations and endeavours ſhould preſently rouze up our dull, careleſſe, groſſe, ſluggiſh Minds, and make them quicke, active, lively, and ſprightfull.</p>
+               <p>
+                  <pb n="56" facs="tcp:17154:33"/>Thirdly, to theſe I might adde ſome Divine remedies and directions. To inſtance briefly.</p>
+               <p>This Sacred Science of Divini<g ref="char:EOLhyphen"/>ty teacheth us; That if we will exalt our ſelves wee muſt firſt be meeke and humble. Let us then deny our ſelves (like King DAVID) as Wormes and no men, as miſerable wretches deſerving the miſeries of Earth and Hell. But let this denyall of our ſelves make us looke to our Saviour: and (as he councels, <hi>Rev.</hi> 3.) Buy of him fine Gold, white Ray<g ref="char:EOLhyphen"/>ment, Eye ſalve, &amp;c. All divine and heavenly Graces; So then being reconciled to GOD in CHRIST our Saviour, truſting and relying on him, and endea<g ref="char:EOLhyphen"/>vouring to goe on in his divine Pathes, though wee be in our ſelves like the <hi>Laodiceans,</hi> poore,
+<pb n="57" facs="tcp:17154:33"/>
+blind, wretched and miſerable; yet in him wee way and ought to thinke our ſelves, Rich, free, happie, bleſſed creatures; little lower then the Angels, <hi>Pſal.</hi> 8. Partakers of the divine Nature, 1 <hi>Pet.</hi> 1.3. That wee are the Sonnes of God himſelfe, heyres of a moſt bright, glorious, eter<g ref="char:EOLhyphen"/>nall, heavenly Kingdome. That wee are the worlds Maſters, and that the Devils are our Slaves and vaſſailes. That our Bodies ſhall ſhine eternally in heaven, and be made Spirituall and glo<g ref="char:EOLhyphen"/>rious bodies, like to that of the Sonne of God, <hi>Phil.</hi> 3.20. That our Soules ſhall bee united to God, made one with him as members of himſelfe; Like him as St. <hi>Iohn</hi> ſignifieth, 1 <hi>Ioh.</hi> 3.2. and with him ſhall raigne eter<g ref="char:EOLhyphen"/>nally in Heaven, tryumphing,
+<pb n="58" facs="tcp:17154:34"/>
+and enjoying infinite pleaſures and happineſſe for ever.</p>
+               <p>How may ſuch thoughts raiſe our Minds and even ſtrike quickning flaſhes of Heaven in us before-hand (if wee could truly thinke of their excellency) and make us of a ſprightfull, Angel-like, Divine and heavenly temper on Earth.</p>
+               <q>
+                  <l>So let's advance our Minds</l>
+                  <l>to high deſires,</l>
+                  <l>To ſprightfull quickneſſe,</l>
+                  <l>to Coeleſtiall fires,</l>
+                  <l>Divineſt Raptures;</l>
+                  <l>Let ſuch thoughts poſſeſſe</l>
+                  <l>Vs, with a Paradice</l>
+                  <l>of happineſſe.</l>
+               </q>
+            </div>
+            <div n="5" type="part">
+               <pb n="59" facs="tcp:17154:34"/>
+               <head>
+                  <hi>THE V. DIVISION.</hi> Concerning Sanguine Comple<g ref="char:EOLhyphen"/>xions, and ſuch as are of con<g ref="char:EOLhyphen"/>ceited, vaine glorious, and of Intemperate voluptuous Minds, exciting to Meeke<g ref="char:EOLhyphen"/>neſſe, humility, and to mode<g ref="char:EOLhyphen"/>rate delectation.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Uch men as are of a Sanguine Com<g ref="char:EOLhyphen"/>plexion (which hu<g ref="char:EOLhyphen"/>mour is hot and moyſt) if they ac<g ref="char:EOLhyphen"/>cuſtome and betake themſelves to good courſes, they are com<g ref="char:EOLhyphen"/>monly cheerfull, merry and plea<g ref="char:EOLhyphen"/>ſant therein. And ſo if they uſe thir naturall good parts well, adicting themſelves to vertue
+<pb n="60" facs="tcp:17154:35"/>
+and goodneſſe, They uſually be<g ref="char:EOLhyphen"/>come moſt excellent therein, and gaine to themſelves much worth and happineſſe.</p>
+               <p>But if they (neglecting ver<g ref="char:EOLhyphen"/>tue) give themſelves to vice, they commonly become very phantaſticke, ſelfe-conceited, bragging, and vaine-glorious; alſo very Luxurious, Intempe<g ref="char:EOLhyphen"/>rate, profuſe Prodigals, and lewdly voluptuous.</p>
+               <p>Wherefore, to keepe them<g ref="char:EOLhyphen"/>ſelves in good temper both of body and mind; to prevent and mittigate ſuch diſeaſes as uſual<g ref="char:EOLhyphen"/>ly ariſe from ſuperabundant cor<g ref="char:EOLhyphen"/>rupt or inflamed bloud, alſo to allay exceſſive and extravagant paſſions and affections, incident thereunto, and to bring both their bodies &amp; minds to a good temper and diſpoſition, and ſo
+<pb n="61" facs="tcp:17154:35"/>
+to maintaine the ſame therein, let them obſerve ſuch Directi<g ref="char:EOLhyphen"/>ons as enſue.</p>
+               <p>It is good therefore (eſpecially for men of this Complexion) if their bloud abound or bee cor<g ref="char:EOLhyphen"/>rupted, and if Age, weakneſſe or other cauſe hinder not (eſpeci<g ref="char:EOLhyphen"/>ally in the Spring or Autumne) to be let blood, and to keepe a good Dyet after the ſame; for hereby the old corrupted moy<g ref="char:EOLhyphen"/>ſture of the body being evacua<g ref="char:EOLhyphen"/>ted, in ſtead thereof new and purer is introduced and bred.</p>
+               <p>Let them commonly uſe a temperate, coole and looſe dyet, oftentimes forbearing ſuch as nouriſhes plentifully, or if they doe eate ſuch, as Fleſh, Milke and Egges, let them eate good ſtore of Bread therewith. Alſo let them eſchew too much Sack,
+<pb n="62" facs="tcp:17154:36"/>
+Ale, and ſuch like too ſweet and too ſtrong Wine and liquors which heate and nouriſh much.</p>
+               <p>Let their Exerciſe be not too violent, nor too remiſſe, their ſleepe alſo indifferent.</p>
+               <p>Hearbes cold in operation are good for them (of which divers are particularly mentioned in the next <hi>Diviſion</hi>) to prevent and allay the inflamations of Blood, and the diſeaſes and paſ<g ref="char:EOLhyphen"/>ſions incident thereunto.</p>
+               <p>It is good for them alſo (in the Spring eſpecially) to correct and cleuſe the blood with Fumi<g ref="char:EOLhyphen"/>tary, Sene, Succory, Endive and others. To uſe cooling and ope<g ref="char:EOLhyphen"/>ning Cliſters, Potions, Julips, &amp;c.</p>
+               <p>By which, or ſome of which meanes if but obſerved onely with conveniency, the diſtem<g ref="char:EOLhyphen"/>pers
+<pb n="63" facs="tcp:17154:36"/>
+and paſſions which uſually ariſe from overmuch, inflamed, and corrupted blood may bee happily prevented, removed, al<g ref="char:EOLhyphen"/>layed or mittigated; And both the body and mind made well diſpoſed to performe all the offi<g ref="char:EOLhyphen"/>ces and functions belonging thereunto, to enjoy all good pleaſures and felicities; and ſo to bee maintained in ſuch good temper and diſpoſition.</p>
+               <p>Further, concerning the diſ<g ref="char:EOLhyphen"/>poſitions of the Mind moſt inci<g ref="char:EOLhyphen"/>dent to this Sanguine humour, and to direct and rectifie the ſame; Foraſmuch, as the ſpirits iſſuing from hot and luſty blood (which in vertues wayes excite the mind to vain-glorious, brag<g ref="char:EOLhyphen"/>ging and phantaſtick conceited<g ref="char:EOLhyphen"/>neſſe; Let us therefore conſider.</p>
+               <p>
+                  <pb n="64" facs="tcp:17154:37"/>That this vaine-glorious ſelfe-conceited humour, is the mother of Pride, Arrogance, Scorne, Contempt, ſlaunder, detraction and of ſundry other vices and ill conditions.</p>
+               <p>And that if theſe kind of men be conceited of doing well in a courſe of evill, it eſtabliſhes them Cock-ſure therein: So as they cannot be croſſed with a greater infelicity, then in ſetling their happineſſe in ſuch vices, where<g ref="char:EOLhyphen"/>in indeed conſiſts their miſery, So as they will not imagine themſelves to be miſerable, nor credit thoſe that doe perſwade the ſame, untill they doe indeed bring upon themſelves the ſmart and miſeries incident to ſuch vices as they accuſtome them<g ref="char:EOLhyphen"/>ſelves unto.</p>
+               <p>Further, that every Repulſe,
+<pb n="65" facs="tcp:17154:37"/>
+co<g ref="char:cmbAbbrStroke">̄</g>tempt, injury, ſlander, diſgrace and contumely, doth much more vexe theſe ſelfe-conceited men then others.</p>
+               <p>This Condition alſo hinde<g ref="char:EOLhyphen"/>reth good Actions; for when wee once thinke our ſelves wiſe and good enough, wee then be<g ref="char:EOLhyphen"/>come Fooles, as King <hi>Salomon</hi> ſpeaketh; for then we common<g ref="char:EOLhyphen"/>ly neglect to ſeeke for more wiſdome and goodneſſe, thin<g ref="char:EOLhyphen"/>king wee are well enough alrea<g ref="char:EOLhyphen"/>dy; when indeed a truly wiſe man knowes, that there is infi<g ref="char:EOLhyphen"/>nitely more Wiſdome beyond him then in him. Nor can there bee any men more unlikely to attaine to any excellency, then ſuch whoſe minds are poſſeſſed with the cunning ſeiſure of falſe Perſwaſions, blinding and debarring them from ſeeing and
+<pb n="66" facs="tcp:17154:38"/>
+ſeeking the meanes to attaine thereunto.</p>
+               <p>Wherefore it ſhewes moſt no<g ref="char:EOLhyphen"/>table wiſdome and modeſty in a wiſe and good man to ſuſpect himſelfe, to be eaſily confuted of his errors, and to thanke you for telling him thereof; To thinke and know that there is farre more Wiſdome and good<g ref="char:EOLhyphen"/>neſſe beyond himſelfe then in himſelfe, and with a longing deſire ſtill to ſeeke for more. Happie indeed is ſuch a man; Our Saviour ſaith it, <hi>Bleſſed are the meeke in Spirit</hi> (ſaith hee) <hi>for they ſhall inherite the Earth, Bleſſed are they that hunger and thirſt after Righteouſneſſe, for they ſhall be filled.</hi> It ſeemes the felicities of Earth and Hea<g ref="char:EOLhyphen"/>ven doe moſt properly belong to ſuch as are meeke in Spirit;
+<pb n="67" facs="tcp:17154:38"/>
+ſuch as (ſeeing their owne frail<g ref="char:EOLhyphen"/>ties and emptineſſe) doe ſtill long after and ſeeke for more vertue and goodneſſe.</p>
+               <p>Further, to direct and rectifie the Mind herein; Foraſmuch as ſuch men in whom this San<g ref="char:EOLhyphen"/>guine humour doth abound, if they let looſe their appetites to runne after vice and evill wayes, their hot, moyſt and luſty ſpi<g ref="char:EOLhyphen"/>rits will excite them to Intem<g ref="char:EOLhyphen"/>perate-voluptuouſneſſe in all Luxurious, riotous, and prodi<g ref="char:EOLhyphen"/>gall courſes; Let us conſider the evill and miſerable effects of ſuch vicious Courſes and diſpo<g ref="char:EOLhyphen"/>ſitions.</p>
+               <p>It is wonderfull truly to think how many infelicities and mi<g ref="char:EOLhyphen"/>ſeries doe hereby come to mens Bodies, Minds, Eſtates, Fortunes,
+<pb n="68" facs="tcp:17154:39"/>
+Credit, &amp;c. Inſomuch, as many thouſand perſons, yea whole Fa<g ref="char:EOLhyphen"/>milies, Cities, and Kingdomes, have by reaſon of ſuch ill cour<g ref="char:EOLhyphen"/>ſes come to Ruine.</p>
+               <p>Let us thinke of the Vanity, emptineſſe, unprofitableneſſe, deceipts, and miſeries thereof. They paſſe away as a vapour, a dreame, a ſhadow, and are gone; Their duration is but a moment in reſpect of Eternity; They do notably cozen and mocke us; They have ſtings in their tayles, their choyſeſt Flowers bring foorth but Thornes.</p>
+               <p>To the body theſe Intemperate voluptuous and luxurious cour<g ref="char:EOLhyphen"/>ſes, doe often cauſe many evill corrupted Humours, ſtrange Maladies, Griefes, and diſtem<g ref="char:EOLhyphen"/>pers. From whence ſpring the common Diſeaſes of our Times,
+<pb n="69" facs="tcp:17154:39"/>
+but from Intemperate-voluptu<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+               <p>To the Mind alſo, Theſe vi<g ref="char:EOLhyphen"/>ces doe often ſo beſot the ſame, as it becomes very unfit for any good thoughts or actions either Humane or Divine; And the Spirits being thereby diſtempe<g ref="char:EOLhyphen"/>red, the Mind becommeth prone to evill thoughts and deſires, and the Paſſions ſo enthralled that a multitude of perturbati<g ref="char:EOLhyphen"/>ons, diſcontents, and vexations are thereby cauſed.</p>
+               <p>So that indeed, what are theſe Intemperate evill pleaſures, but fugitive follies mixt with many Maladies, Diſtempers, Cares, Feares, Jealouſies, and diſtur<g ref="char:EOLhyphen"/>bances? In the end, what doe they bring foorth but Diſeaſes, Paſſions, and perturbations, as Melancholy, Sadneſſe, Sullen<g ref="char:EOLhyphen"/>neſſe,
+<pb n="70" facs="tcp:17154:40"/>
+Diſcontent, Griefe and Sorrow; which like ſo many ſtings doth annoy both Body and Mind? Happie are we if we can avoid the ſame.</p>
+               <p>And further let us conſider; That we may enjoy much more happineſſe in the temperate ver<g ref="char:EOLhyphen"/>tuous uſe, deſire, and enjoyance of earthly Pleaſures, then in the intemperate vitious uſe thereof, as I have elſe-where ſhewed and dilated.</p>
+               <p>For the Temperate man, his body is commonly cleere and free from unneceſſary Crudities, Rheumes, noyſomneſſe, ill Diſ<g ref="char:EOLhyphen"/>eaſes and diſtempers, and ſo moſt Healthfull, agill, lightſome and expedite to performe all the mo<g ref="char:EOLhyphen"/>tions and exerciſes appertaining thereunto.</p>
+               <p>His mind alſo, is co<g ref="char:cmbAbbrStroke">̄</g>monly free
+<pb n="71" facs="tcp:17154:40"/>
+from Sloth, dulneſſe, evill paſſi<g ref="char:EOLhyphen"/>ons and perturbations; His af<g ref="char:EOLhyphen"/>fections well tempered, and his whole Soule apt, perſpicuous, free, and cheerefull in the per<g ref="char:EOLhyphen"/>formance of all the actions and exerciſes thereof.</p>
+               <p>There are no men in the world, that live more healthful<g ref="char:EOLhyphen"/>ly, proſperouſly, pleaſantly, joy<g ref="char:EOLhyphen"/>fully, and in all reſpects happily then Temperate vertuous men. They ſeeme to go to Heaven all the way of their life, as it were in a faire and pleaſant day treading on Roſes, and Violets, and en<g ref="char:EOLhyphen"/>viron'd with a Paradice of plea<g ref="char:EOLhyphen"/>ſures and happineſſe.</p>
+               <q>
+                  <l>Hee then who hath a</l>
+                  <l>meeke and temperate Mind</l>
+                  <l>Within himſelfe, doth</l>
+                  <l>ſweet contentment find:</l>
+                  <l>His life's compos'd of</l>
+                  <l>golden dayes and howers,</l>
+                  <l>
+                     <pb n="72" facs="tcp:17154:41"/>His wayes are ſtrew'd with</l>
+                  <l>ſweeteſt pleaſant flowers</l>
+                  <l>Of happineſſe, In theſe</l>
+                  <l>ſweet Pathes ſtill treading</l>
+                  <l>(As in a Paradice)</l>
+                  <l>to Heaven leading.</l>
+               </q>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>THE VI. DIVISION.</hi> Of Cholericke Complexions; Such as are of Haughty, Am<g ref="char:EOLhyphen"/>bitious, Angry, Raſh, violent, furious Minds; exciting to Mildneſſe, meekneſſe mode<g ref="char:EOLhyphen"/>ration, contentation, tran<g ref="char:EOLhyphen"/>quility, and to all Affable ſweet, pleaſing Conditions.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ow concerning ſuch men in whom the hu<g ref="char:EOLhyphen"/>mor of Choller doth abound, which is hot
+<pb n="73" facs="tcp:17154:41"/>
+and dry; Such men if they a<g ref="char:EOLhyphen"/>dict themſelves to good courſes and to follow vertues lore; They commonly become zea<g ref="char:EOLhyphen"/>lous, reſolute, couragious, active, ſtirring, ſubtill, &amp; politicke in all good wayes. But if they give themſelves to vice and walke in her pathes, they uſually become very proud, haughty, and ambi<g ref="char:EOLhyphen"/>tious; notable Flouters, Gibers, and adding to other mens mi<g ref="char:EOLhyphen"/>ſeries, very raſh, haire-brain'd, and violent, often throwing themſelves unadviſedly upon e<g ref="char:EOLhyphen"/>vill actions, and as ſuddainly a<g ref="char:EOLhyphen"/>gaine wiſh they had not, Varia<g ref="char:EOLhyphen"/>ble, Unſtable, unconſtant, un<g ref="char:EOLhyphen"/>quiet, ſeditious, teſty, quarrel<g ref="char:EOLhyphen"/>ſome, notable maintained of vice and wickedneſſe; Curſers, Swearers, Roarers, Tyrants, an<g ref="char:EOLhyphen"/>gry and furious.</p>
+               <p>
+                  <pb n="74" facs="tcp:17154:42"/>Let ſuch ment heretore as are of this Chollericke humour and Complexion, (To maintaine their bodyes and minds in good temper, to prevent or mittigate hote and dry maladies and di<g ref="char:EOLhyphen"/>ſtempers which are moſt ſub<g ref="char:EOLhyphen"/>ject to men of this Complexion; Such as are inflamations of the Heart, Liver, Humours and Spi<g ref="char:EOLhyphen"/>rits, and divers Diſeaſes and di<g ref="char:EOLhyphen"/>ſtempers which uſually ſpring from thence, and to allay the unruly, violent, raſh, Chollerick paſſions and perturbations of the mind moſt ſubject to men of this humour, to reduce the ſame to, or mainetaine the ſame in a good and laudable temper and diſpoſition<g ref="char:punc">▪</g> And ſo to make the ſame fit and apt to perform all good offices and actions, and to enjoy all good pleaſures and
+<pb n="75" facs="tcp:17154:42"/>
+happineſſe) obſerve ſuch di<g ref="char:EOLhyphen"/>rections as follow.</p>
+               <p>Let them in a fit ſeaſon purge out thoſe evill, exceſſive Chole<g ref="char:EOLhyphen"/>ricke humours of the body by ſuch medicines as are uſually ap<g ref="char:EOLhyphen"/>propriated for the ſame purpoſe, and let them allay the heate thereof as much as they may conveniently by all coole and moyſt things.</p>
+               <p>So let them alſo eſchew ſuch things as are hote and dry, ſuch Spices, hearbs and diet as is be<g ref="char:EOLhyphen"/>fore preſcribed to bee uſed by cold and moyſt complexions. Alſo hot waters and ſtrong hot Wine and Drinkes, long wat<g ref="char:EOLhyphen"/>ching, exceſſive exerciſe, and ſweating. Alſo, anger and all perturbations of the Minde, which doe much heate and di<g ref="char:EOLhyphen"/>ſtemper their bodies are alſo as
+<pb n="76" facs="tcp:17154:43"/>
+much as may bee to be avoided by them.</p>
+               <p>But on the contrary let them commonly uſe a cold and moiſt kind of Diet, Meates of good di<g ref="char:EOLhyphen"/>geſtion; Solid meats which are not too hot and ſalt, are not a<g ref="char:EOLhyphen"/>miſſe for them. Fiſhes are coo<g ref="char:EOLhyphen"/>ling and good for them, eſpeci<g ref="char:EOLhyphen"/>ally freſh fiſh.</p>
+               <p>It is ſaid, that in the Spring or Autumne, ſometimes to dip their bread in cold water is good to coole the heat of their ſtomacke, liver, and humours. Reaſonable ſmall Beere, freſh and coole, is beſt for them to uſe as ordinary drinke. And ſome<g ref="char:EOLhyphen"/>times eſpecially in the Spring it is good to allay the heat of their Wine, with water, borrage, and the like.</p>
+               <p>Vinegar is very coole in ope<g ref="char:EOLhyphen"/>ration,
+<pb n="77" facs="tcp:17154:43"/>
+therefore ſometimes (al<g ref="char:EOLhyphen"/>though tart) is not amiſſe for them. Julip of Roſes and their Conſerves, two or three houres before meales, eſpecially in the Spring time are good to be uſed by men of this Complexion; as alſo Syrrup of the infuſion of Roſes, of Water-lillies, and wa<g ref="char:EOLhyphen"/>ter of Borrage, and Sychory.</p>
+               <p>All coole Hearbes are good for them, as Endive, Sorrell, Lettuce, Succory, Bugloſſe, Bor<g ref="char:EOLhyphen"/>rage, Fumitory, Violets, Roſes, Strawberry-leaves, Primroſe, Burnet, Germander, Orage, Mallowes, Spinage, the hearbe Patience, Purſlane, Water lillies, Dragon-woort, and the like.</p>
+               <p>Alſo, Straw-berries, Cherries, Gooſe-berries, Sanders, Cam<g ref="char:EOLhyphen"/>phire, Mellons or Citrons, Cu<g ref="char:EOLhyphen"/>cumers, the juyce of Apples,
+<pb n="78" facs="tcp:17154:44"/>
+eſpecially bak't or roaſted after the ſame is cooled, ſtewed Prunes and the ſyrrup thereof, alſo Whay, eſpecially clarified and in the Spring-time; and ſo likewiſe all coole diſtilled Wa<g ref="char:EOLhyphen"/>ters, Syrrups, Julips, &amp;c.</p>
+               <p>They may allow themſelves a larger quantity both of meate and drinke then the Phlegma<g ref="char:EOLhyphen"/>ticke, ſo as their diet be not too ſtrong hot, hard and dry, but rather coole, moiſt and ſoluble, for a plentiful diet doth allay their too light, wandring Phan<g ref="char:EOLhyphen"/>taſticke, paſſionate and vnſtable Spirits, and provoketh them to ſleepe, reſt, and quietneſſe.</p>
+               <p>So alſo to reſt and ſleepe as much as they may and quietly is very good to coole and allay their hot and turbulent Spirits, for ſleep doth moiſten and coole
+<pb n="79" facs="tcp:17154:44"/>
+the body, and conſequently thicken and allay the extrava<g ref="char:EOLhyphen"/>gant lightneſſe, wandring and heate or the Spirits.</p>
+               <p>Therefore to make them reſt-and ſleepe well; Violets, ſod Let<g ref="char:EOLunhyphen"/>tuce, Syrrup of Roſes, Saffron, Baulme, Nitre, Watergruell, Apples eat before going to bed, and as ſome ſay a good draught of cold water in the Spring and Summer, ſometimes are good to make young folkes and ſuch as have ſtrong, hote, Chollericke ſtomacks, to ſleepe well and ſoundly.</p>
+               <p>Voluntary extaſies and fixed profound meditations, joyned with a quiet mind, doe thicken and allay the Spirits.</p>
+               <p>So as by theſe, or ſome of theſe remedies (obſerved onely with conveniency and without
+<pb n="80" facs="tcp:17154:45"/>
+too much niceneſſe and per<g ref="char:EOLhyphen"/>plexity) the exceſſive heate of the Heart, Liver, Choller, Bloud and other humours will bee allayd and qualified; And con<g ref="char:EOLhyphen"/>ſequently the Stomacke, Braine, Spirits, and in ſumme the whole body and mind become of a good temper and well diſpoſed to performe all goodneſſe, to enjoy all happineſſe.</p>
+               <p>Thus much concerning Phy<g ref="char:EOLhyphen"/>ſicall Remedies.</p>
+               <p>Now further concerning the diſpoſitions of the Mind moſt incident to this Chollericke hu<g ref="char:EOLhyphen"/>mour, and to direct and rectifie the ſame. Firſt, inaſmuch as the ſpirits iſſuing from this hot and impetuous humour of Choller, (which in vertues wayes excite to Reſolution, fortitude, to ac<g ref="char:EOLhyphen"/>tive,
+<pb n="81" facs="tcp:17154:45"/>
+ſpeedy, worthy deſires and actions) being corrupted by vice excites the mind to that haughty top-leſſe and towring vice of Ambition, which is moſt commonly reſident in great and fiery ſpirits, let us endeavour to rectifie our minds herein by ſuch conſiderations, as follow.</p>
+               <p>Let us firſt thinke of the va<g ref="char:EOLhyphen"/>nity of this vice of Ambition, which maketh a man plunge himſelfe into a multitude of reſtleſſe cares, paines, and per<g ref="char:EOLhyphen"/>plexities to gaine only the win<g ref="char:EOLhyphen"/>dy praiſes and aiery eſtimation of men, whoſe minds are moſt unconſtant and wavering.</p>
+               <p>But the miſeries of this vice are many, Ambition hath beene the cauſe of much Sedition, Warres, Strife, Murder, Ruine and Deſtruction of Empires,
+<pb n="82" facs="tcp:17154:46"/>
+Kingdomes, Cities, and Multi<g ref="char:EOLhyphen"/>tudes of Families and perſons.</p>
+               <p>The ſame is the fountaine of Pride, Ingratitude, Inſolency, perfidiouſneſſe, Enuy, Mutiny, Contention, Sedition and Trea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>A multitude of vaine plots, purpoſes, Cares, Jealouſies, En<g ref="char:EOLhyphen"/>vies, Perplexities, Immoderate and unſatiable deſires, feares, griefes, and diſcontents, ſpring from this Founiaine. It often brings men to a great and miſe<g ref="char:EOLhyphen"/>rable downe-fall.</p>
+               <p>Let us alſo conſider; That there are no men who live more pleaſantly and happily on Earth, then ſuch who are free fro<g ref="char:cmbAbbrStroke">̄</g> ſuch vaine, Empty, Haughty, unſa<g ref="char:EOLhyphen"/>tiable and perplexfull deſires; ſuch as are meeke and moderate therein; Contented and plea<g ref="char:EOLhyphen"/>ſed
+<pb n="83" facs="tcp:17154:46"/>
+in all eſtates and conditions. Such vertuous men are indeed truly honourable truly happy.</p>
+               <p>But now concerning ſuch diſ<g ref="char:EOLhyphen"/>poſitions of the mind as are more properly incident to this Chollerick humour, ſuch as are Anger, Raſhneſſe, fury; and the reſt which ſpring from thence, Let us conſider the miſeries and evill effects thereof.</p>
+               <p>But in this enſuing diſcourſe againſt Chollericke angry paſſi<g ref="char:EOLhyphen"/>ons, I doe not meane a moderate neceſſary Anger, which is uſed onely with reaſon and diſcre<g ref="char:EOLhyphen"/>tion for ſome good purpoſe and preſently extinct againe, accor<g ref="char:EOLhyphen"/>ding to that divine Councell, <hi>Bee angry but finne not, Let not the Sonne goe downe vpon your wrath, &amp;c.</hi> But J meane in this
+<pb n="84" facs="tcp:17154:47"/>
+following diſcourſe onely viti<g ref="char:EOLhyphen"/>ous, (as vnneceſſary, cuſtomary, Immoderate) paſſions in this kind, (and ſuch as proceeds from envie, malice, revenge, and the like.) Let us know that a multitude of evils and miſeries proceeds from ſuch vitious, Chollericke paſſions.</p>
+               <p>Firſt to the body; for as Chol<g ref="char:EOLhyphen"/>ler heated, ſtirres vp anger and fury, ſo theſe Cholerick paſſions againe (by reaſon of the neere relation betweene paſſions and humours) doe ſtirre up and ſo increaſe the Cholerick humors in the body, inflaming the ſame, as alſo the Blood, Liver, Heart, and vitall Spirits; hinders alſo reſt and ſleepe, ſpoyles the ſto<g ref="char:EOLhyphen"/>macke and diſtempers the whole body.</p>
+               <p>Swolne veines, imperfect, loud
+<pb n="85" facs="tcp:17154:47"/>
+and diſtractive ſpeeches, fiery eyes, deformed and furious lookes are the outward Symp<g ref="char:EOLhyphen"/>tomes of theſe Chollericke paſ<g ref="char:EOLhyphen"/>ſions; To looke in a glaſſe when a man is throughly angry and Chollericke, is enough to make him aſhamed of himſelfe, hee ſhould ſee himſelfe like a Mad<g ref="char:EOLhyphen"/>man.</p>
+               <p>And alſo to the Mind. Theſe Chollericke paſſions hinder the divine vertues of Patience, Meekeneſſe, Affability, Courte<g ref="char:EOLhyphen"/>ſie, Contentedneſſe, and all plea<g ref="char:EOLhyphen"/>ſing quiet amiable conditions, all vertue, true pleaſure and happineſſe.</p>
+               <p>The ſame are moſt pernitious both to our ſelves and others; A chollericke man is like one that burneth himſelfe in his neighbours houſe. He fireth his
+<pb n="86" facs="tcp:17154:48"/>
+owne Mind with trouble and vexation, while he endeavoureth to trouble and vexe another. And in this mad fury he will admit of no reaſon, no admoni<g ref="char:EOLhyphen"/>tion; He then careth not to looſe friends or procure Ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p>Theſe Inconſiderate, Raſh, Chollericke paſſions doe blind the mind and prepare the ſame ready to runne and throw it ſelfe into all vices, evill actions, and conſequently, Miſeries; As into Riot, Prodigality, exceſſive Gaming, ill raſh Bargaines, Swift revenge; Into Curſing, ſwearing quarrelling, fighting, ſtabbing, and the like. Wee of<g ref="char:EOLhyphen"/>ten ſee and heere (Hiſtories are repleniſhed with Examples) of the evill and miſerable effects of theſe paſſions. As of quarrels,
+<pb n="87" facs="tcp:17154:48"/>
+Contentions, Hatred, Strife, Murder; And Ruine of whole Townes, Cities, Common-wealths, and Kingdomes by reaſon thereof.</p>
+               <p>Theſe Chollericke paſſionate men are commonly all in ex<g ref="char:EOLhyphen"/>treames, which are commonly very hurtfull; When the kind fit takes them they are often ſo overkind as they wrong them<g ref="char:EOLhyphen"/>ſelves. And in a fit or anger or quarrelling they are uſually ſo extreame, as they are ſometimes beaten, often anger and looſe their friends, and alſo many times doe or ſuffer ſome raſh and ſuddaine Miſchiefes.</p>
+               <p>Theſe kind of paſſions alſo deprive men of juſtice and pati<g ref="char:EOLhyphen"/>ence; Yea, of reaſon it ſelfe, which uſually comes in the Rere, and is joyned with Re<g ref="char:EOLhyphen"/>pentance;
+<pb n="88" facs="tcp:17154:49"/>
+Their repentance alſo is ſomtimes a Rage againſt themſelves even to deſperation rather then mixt with good Reſolutions, and thereupon joy<g ref="char:EOLhyphen"/>full hopes, as the ſame ought to bee.</p>
+               <p>Yea, theſe paſſions prepare the Mind to a wild madneſſe and fury, deſtroying Wit, Reaſon, Art, and all goodneſſe. There is little or no difference betweene a Mad man and a Chollericke man in his fits. And if theſe chollericke angry paſſions by often uſe and reiteration grow from a diſpoſition to a habit, the ſame becomes Madneſſe.</p>
+               <p>Further, let us avoyd the occa<g ref="char:EOLhyphen"/>ſions and cauſes of theſe Raſh, angry, violent, Chollericke paſ<g ref="char:EOLhyphen"/>ſions. Such as are too much ſelfe-love, Pride, and Preſumpti<g ref="char:EOLhyphen"/>on,
+<pb n="89" facs="tcp:17154:49"/>
+bereaving us of humility and of reaſon, which ought to bridle and moderate the fury of theſe bedlam paſſions. Let us al<g ref="char:EOLhyphen"/>ſo by a manly and ſtay'd mind eſchew niceneſſe, Curioſity, and Impotency, which moſt com<g ref="char:EOLhyphen"/>monly poſſeſſe Women, Chil<g ref="char:EOLhyphen"/>dren, ſome old men, and haſty fooles. Thoſe who will fret, bee angry and take pepper in the noſe at every trifle; Alſo, let us avoid all Immoderate doting on Earthly things; The loſſes whereof, or croſſes wherein ex<g ref="char:EOLhyphen"/>treamely frets and vexes ſuch as love them too much; and ſets their paſſions on fire.</p>
+               <p>And on the contrary, let us endeavour by reaſons light to reſiſt and withſtand the begin<g ref="char:EOLhyphen"/>nings of theſe paſſions, and to quench them as we would a
+<pb n="100" facs="tcp:17154:50"/>
+fire kindling within us. Let us watch over our Diſpoſitions; Give Reaſon leave to interpoſe &amp; reſolve; Divert our thoughts to ſome other buſineſſe or occa<g ref="char:EOLhyphen"/>ſion; And let us by all meanes endeavour to bee of a ſweete, pleaſant, amiable, meeke, cour<g ref="char:EOLhyphen"/>teous, mild, unpaſſionate Tem<g ref="char:EOLhyphen"/>per.</p>
+               <p>They are much deceived who thinke that Meeke, Courteous, and mild diſpoſitions are con<g ref="char:EOLhyphen"/>trary to Fortitude; Meekneſſe (as one faith) is a vertue that belongeth to the couragious Part of the Soule, whereby wee become (contrary to the weake<g ref="char:EOLhyphen"/>neſſe in fearefull women and old men, hardly moved to An<g ref="char:EOLhyphen"/>ger and Choller; for theſe paſ<g ref="char:EOLhyphen"/>ſions moſt commonly reſide in fraileſt, weakeſt, moſt fearefull
+<pb n="101" facs="tcp:17154:50"/>
+and worſt Spirits, In fraile Wo<g ref="char:EOLhyphen"/>men, weake Old men, in Cove<g ref="char:EOLhyphen"/>tous Ambitious, vaine-glori<g ref="char:EOLhyphen"/>ous, Cowardly, diſſolute vitious men.</p>
+               <p>There is no heart more wor<g ref="char:EOLhyphen"/>thy and couragious, then ſuch a one as can repreſſe theſe furies; No worthier Trophies then thoſe which may bee procured from within our ſelves; No tri<g ref="char:EOLhyphen"/>umphs more glorious, then when our Reaſon can leade our conquered affections as ſlaviſh ſervants and ſervile Captives, which otherwiſe will inſult o<g ref="char:EOLhyphen"/>ver us like bloody Tyrants, and violently take away the peace<g ref="char:EOLhyphen"/>full Tranquility and pleaſures of our Soules, That Paradice within us which we ſeeke for.</p>
+               <p>Let us further conſider, that all accidents whereby theſe paſ<g ref="char:EOLhyphen"/>ſions
+<pb n="102" facs="tcp:17154:51"/>
+are provoked, proceed from divine Prudence which may move us to be patient and contented; Let us alſo endea<g ref="char:EOLhyphen"/>vour as neere as wee may to re<g ref="char:EOLhyphen"/>ſemble the divine Nature in all meekneſſe &amp; goodneſſe, <hi>Learne of mee</hi> (ſayth our Saviour) <hi>for I am Meeke.</hi> Alſo, the heavenly glory and rewards which hee hath prepared for us ſhould make us ſcorne to bee of ſo weake, ſo fraile, ſo unworthy a temper as to bee furious, paſſio<g ref="char:EOLhyphen"/>nate, and too much perplex our ſelves for mundane Trifles.</p>
+               <p>Let us then in oppoſition to theſe Cholericke paſſions, by all meanes endeavour to bee of quiet, peaceable, courteous, mild, affable, meeke, and of all ſweet and pleaſing conditions, which
+<pb n="103" facs="tcp:17154:51"/>
+(like the Adamant) attract the love of all good men by their amiable and pleaſing Graces.</p>
+               <p>This mild, affable, unpaſſio<g ref="char:EOLhyphen"/>nate, pleaſing, peacefull temper (as one ſayth) reſembles the higheſt Region of the Ayre wherein are no Clouds, no Tem<g ref="char:EOLhyphen"/>peſt, but all faireneſſe, Serene<g ref="char:EOLhyphen"/>ty, and Peace. The ſame is the Character of a pleaſant and happie Mind.</p>
+               <q>
+                  <l>Who doth this Peacefull</l>
+                  <l>pleaſing Mind poſſeſſe,</l>
+                  <l>Is fit to enjoy the</l>
+                  <l>ſweeteſt Happineſſe.</l>
+                  <l>His life reſembles</l>
+                  <l>a faire lightſome day,</l>
+                  <l>In which hee rides to</l>
+                  <l>Heaven all the way,</l>
+                  <l>As in a Paradice;</l>
+                  <l>His mind enjoyes,</l>
+                  <l>Moſt pleaſing ſweetneſſe</l>
+                  <l>in theſe happie wayes.</l>
+               </q>
+            </div>
+            <div n="7" type="part">
+               <pb n="104" facs="tcp:17154:52"/>
+               <head>
+                  <hi>THE VII. DIVISION.</hi> Of Melancholy Complexions; of Covetous, Fearefull, Sad, Sorrowfull minds, Exciting to Moderate deſires, and contentment; to Fortitude, Cheerefulneſſe, Ioy, and plea<g ref="char:EOLhyphen"/>ſantneſſe.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He humor of Me<g ref="char:EOLhyphen"/>lancholly though it bee cold and dry of it ſelfe, yet commonly re<g ref="char:EOLhyphen"/>taineth in it ſome heat and moi<g ref="char:EOLhyphen"/>ſture of the other humours. Men of this Complexion if they adict themſelves to ſeeke and follow Vertue and Piety (eſpe<g ref="char:EOLhyphen"/>cially if their Melancholly bee
+<pb n="105" facs="tcp:17154:52"/>
+with bloud and other good hu<g ref="char:EOLhyphen"/>mours moderately humected and allay'd) commonly become of excellent wiſedome, Sharp Iudgements and ſeeme to doe many things ſo notably as if they were furthered by ſome divine Jnſtinct or motion, In<g ref="char:EOLhyphen"/>ſomuch as oft-times even their Solitarineſſe and melancholly diſpoſitions become moſt pro<g ref="char:EOLhyphen"/>fitable, ſweet and pleaſant to them. But otherwiſe if vice poſſeſſe them they commonly become very Covetous, nigard<g ref="char:EOLhyphen"/>ly, fearefull, ſad, lumpiſh, de<g ref="char:EOLhyphen"/>jected and ſorrowfull.</p>
+               <p>Therefore to maintaine them<g ref="char:EOLhyphen"/>ſelves in good Temper both of body and mind, to prevent and mittigate ſuch diſeaſes a vſu<g ref="char:EOLhyphen"/>ally ariſe from this melancholly, heavy, cold, dry, thick humour
+<pb n="106" facs="tcp:17154:53"/>
+of the ſplene, which if exceſ<g ref="char:EOLhyphen"/>ſive and corrupted takes away the ſtomacke, colour and ſleepe, thickens the bloud and cauſes divers Maladies both of body and mind; Let them therefore (and alſo to bring and maine<g ref="char:EOLhyphen"/>taine their bodies and minds in good temper and diſpoſition, fit and apt to enjoy all true happineſſe) obſerve ſuch and the like directions as follow.</p>
+               <p>Let them in due ſeaſon purge out of their bodies the exceſſive Melancholly humours, let them avoyd ſuch things as encreaſe the ſame, ſuch as are an over-ful ſtomacke, by Intemperance cau<g ref="char:EOLhyphen"/>ſing Crudities; Alſo ſuch meats as breed groſſe and thick bloud, as doth Beefe, Bacon, Veniſon, Hare, Salt, pickled, Raw Fiſhes and all groſſe meates to tender
+<pb n="107" facs="tcp:17154:53"/>
+ſtomacks and idle perſons; Alſo to Students and ſuch as uſually live, a ſedentary life. Let them alſo eſchew Idleneſſe, too much ſolitarineſſe, feares, unſatiable deſires, ſadneſſe and ſorrow as much as they may.</p>
+               <p>But let them uſually eat ſuch Diet as is eaſie of digeſtion, warme, ſod, young, moyſt, and of good nouriſhment. Let their Drinke be well ſod, hop't, and brew'd, indifferent in ſtrength and age; Let them ſleepe ſome<g ref="char:EOLhyphen"/>what more then ordinary. Let them as much as they may keep their bodies laxative and often avoyd excrements.</p>
+               <p>It is good to keepe themſelves cleanly and decent, their hands and faces waſhed, head com<g ref="char:EOLhyphen"/>bed; To weare cleane Linnen, comely Apparell, and to bee
+<pb n="108" facs="tcp:17154:54"/>
+neately dreſt, for ſlovenlineſſe dejects a man, but decency and cleanlineſſe doth revive and quicken his Spirits.</p>
+               <p>Borrage, Bugloſſe, Baulme, Burnet, Succory, Endive, in Brothes or otherwiſe are very good to revive and comfort the Spirits; As alſo Roſes, Violets, and their leaves, Syrrup of Lemmans and Oranges, Iuice of Apples, Sanders, Camphire, Saf<g ref="char:EOLhyphen"/>fron, Wood of Aloes, Cittron Barke, Baulm mint, Orange flowers, Roſemary, Mint, Beto<g ref="char:EOLhyphen"/>ny, Bleſſed thiſtle, And Cordi<g ref="char:EOLhyphen"/>alls of all ſorts are good for them.</p>
+               <p>Sometimes two or three cups of pure Wine is good againſt this heauy and ſad kind of Me<g ref="char:EOLhyphen"/>lancholly, but exceſſe over<g ref="char:EOLhyphen"/>whelmeth the Spirits and cau<g ref="char:EOLhyphen"/>ſeth
+<pb n="109" facs="tcp:17154:54"/>
+a multitude of vapors <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o aſcend into the braine, as it cannot well concoct but onely doth refrigerate the ſame, which then remaine raw and crude poſtering the braine, ſo as from thence (by reaſon thereof) di<g ref="char:EOLhyphen"/>ſtills much cold, raw, uncon<g ref="char:EOLhyphen"/>cocted humours into the ſto<g ref="char:EOLhyphen"/>macke diſtempering the body <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd mind, and encreaſig Me<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ancholly, diſcontent and ſad<g ref="char:EOLhyphen"/>neſſe. As for example, A man that is Potſhot at night, looke <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon him next morning after <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e vapours of the wine or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rong liquor are peſtred and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooled in his braine and diſtil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, you ſhall ſee him like the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icture of ill Fortune, ſad, ſullen, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mpiſh, quarrelſome and Me<g ref="char:EOLhyphen"/>lacholly; And perchance ready <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o goe to the Taverne againe
+<pb n="110" facs="tcp:17154:55"/>
+to drive it away. But indeed this is the way to encreaſe the ſame, and in tract of time by much exceſſe to make a man become exceſſive and even habitually Melancholly and diſcontented. But ſo much as the braine can well digeſt the vapours thereof without any remaining raw and crude (which may bee a<g ref="char:EOLhyphen"/>bout three or foure uſuall Cups of wine or ſtrong liquor) is an excellent cordiall againſt this ferall melancholly and ſadneſſe, and doth much quicken and revive their dejected, ſad, heauy, cold and melancholly Spirits.</p>
+               <p>Let them alſo uſe moderate exerciſes and ſtirring, be always buſie, about ſome good and (if it may bee) pleaſing imploy<g ref="char:EOLhyphen"/>ments either of body or mind, Let them alſo uſe good and
+<pb n="111" facs="tcp:17154:55"/>
+temperate Recreations, Paſtimes, Muſicke, Melody, Mirth, Ban<g ref="char:EOLhyphen"/>queting, good company, and all lawfull and good pleaſures in good ſort, and at convenient times, to ſollace, cheere and re<g ref="char:EOLhyphen"/>vive their ſad and Melancholly Spirits.</p>
+               <p>Now concerning the diſpo<g ref="char:EOLhyphen"/>ſitions and paſſions of the mind moſt incident to this Melan<g ref="char:EOLhyphen"/>cholly humour; And firſt of Covetouſneſſe, which is com<g ref="char:EOLhyphen"/>monly noted to be moſt reſident in ſuch as are of Melancholly, cold and dry Complexions, as appeares in old men, who are naturally of a cold, dry, Melan<g ref="char:EOLhyphen"/>cholly Temper; Let us there<g ref="char:EOLhyphen"/>fore conſider briefly.</p>
+               <p>Covetouſneſſe is eſteemed the moſt unworthy low and ſordid
+<pb n="112" facs="tcp:17154:56"/>
+vice of all other, inſomuch as many covetous men to gaine a ſmall value of Riches, volunta<g ref="char:EOLhyphen"/>rily plunge themſelves into any baſe offices and actions.</p>
+               <p>It is the roote of evill St. <hi>Paul</hi> ſaith, From thence often pro<g ref="char:EOLhyphen"/>ceedeth deceipt, Contentions, Lying, Swearing, Perjury, Op<g ref="char:EOLhyphen"/>preſſion, Injuſtice, Symony, Uſury, Thefts, and ſometimes hatefell Murders, and Villanies.</p>
+               <p>This low and greedy vice baniſheth out of the mind the moſt excellent high and gene<g ref="char:EOLhyphen"/>rous deſires and vertues, and dejecteth the ſame to a low and dunghill diſpoſition, to become even a ſlave to Riches.</p>
+               <p>It is an vnſatiable deſire, and cauſeth a multitude of vnneceſ<g ref="char:EOLhyphen"/>ſary diſcontents, Cares, Paines, Plots, Ravenous deſires, much
+<pb n="113" facs="tcp:17154:56"/>
+envy, grudging, Pinching, Pi<g ref="char:EOLhyphen"/>ning, many feares of loſſes and Croſſes, and extreame griefes to part with their Riches and de<g ref="char:EOLhyphen"/>ſires.</p>
+               <p>So as theſe evill effects of Co<g ref="char:EOLhyphen"/>veteouſneſſe doe almoſt conti<g ref="char:EOLhyphen"/>nually perplexe ſuch asare poſ<g ref="char:EOLhyphen"/>ſeſſed therewith and hinder them in all true pleaſure and happineſſe.</p>
+               <p>Let us alſo conſider, that hee indeed is moſt truely rich and truly happy who is moſt vertu<g ref="char:EOLhyphen"/>ous, moſt moderate in deſires and moſt contented; Hee poſ<g ref="char:EOLhyphen"/>ſeſſes and enjoyes even all the world within himſelfe, there are no men live ſo happily on Earth as Contented vertuous men.</p>
+               <p>Feare, alſo, being a Principall
+<pb n="114" facs="tcp:17154:57"/>
+Paſſion moſt incident, to this melancholly humour (for this paſſion commonly moſt reſides in ſuch as are of Melancholly, cold and dry conſtitutions, as in old men, &amp;c.) Let us conſider briefely the evils and miſeries thereof, But firſt let me tell, I doe not meane herein that mo<g ref="char:EOLhyphen"/>deſt and good feare of doing e<g ref="char:EOLhyphen"/>vill, which keepeth vs from Raſhneſſe, Impudency, and all manner of vices, nor that filiall and loving feare which we owe to God, our Parents, and ſupe<g ref="char:EOLhyphen"/>riours, which doth or ſhould proceed principally from love, and excites to all manner of goodneſſe. But herein I meane onely againſt that vnneceſſary, Melancholly, ſad, cowardly, ſlaviſh, fooliſh and vitious feare.</p>
+               <p>This evill melancholy paſſion
+<pb n="115" facs="tcp:17154:57"/>
+of feare, is a perturbation and ſorrow of the mind ariſing from the apprehenſion or doubt of evils to come, perchance of that which never ſhall bee. It often draweth from Imaginary evils, Reall and bitter ſorrowes, and is overgreedy by thought and o<g ref="char:EOLhyphen"/>pinion to overtake, nay out run the<g ref="char:cmbAbbrStroke">̄</g>. So that indeed it is a ſtrange prodigious Indiſcretion, an In<g ref="char:EOLhyphen"/>conſiderate paſſion filling the mind with griefe &amp; many times onely by appearances.</p>
+               <p>It makes a man to become a baſe Coward, and to be trampled vpon by every inſulting Com<g ref="char:EOLhyphen"/>panion, yea to ſhrinke at every idle Reproach of baſe diſſolute fellowes, Inſomuch that a feare<g ref="char:EOLhyphen"/>full man rather then he will en<g ref="char:EOLhyphen"/>dure the common ſilly jeeres &amp; Impious Reproaches of ſome
+<pb n="116" facs="tcp:17154:58"/>
+deboiſt and idle Companions (which a good, vertuous, coura<g ref="char:EOLhyphen"/>gious minded man can excee<g ref="char:EOLhyphen"/>dingly contemne) he will baſely and weakely be lead by them to any vice, Impiety, and diſſo<g ref="char:EOLhyphen"/>lute Courſes.</p>
+               <p>The thoughts of dangers, dif<g ref="char:EOLhyphen"/>ficulties, loſſes, Croſſes, ſicke<g ref="char:EOLhyphen"/>neſſe and death, doe almoſt con<g ref="char:EOLhyphen"/>tinually diſtemper and perplexe fearefull men.</p>
+               <p>Let us alſo co<g ref="char:cmbAbbrStroke">̄</g>ſider that this me<g ref="char:EOLhyphen"/>lancholy paſſion of feare may juſtly bring upon us thoſe evils which we feare in diſtruſting divine Providence, ſo that fea<g ref="char:EOLhyphen"/>ring to become miſerable makes men oftentimes to become that which they feare and ſo turnes their Immaginary falſe feare in<g ref="char:EOLhyphen"/>to certaine miſeries.</p>
+               <p>How many languiſh in feare
+<pb n="117" facs="tcp:17154:58"/>
+of loſſes, Poverty, of diſgrace &amp;c. And ſo live miſerably and need not, how many looſe their friends by diſtruſting them and game diſeaſes by fearing them; yea ſome have dyed even for feare to dye, ſo that feare ſeemes to ſerve to no other end but to make men find that which they fly from.</p>
+               <p>Feare hindereth a man in all good, great, and excellent un<g ref="char:EOLhyphen"/>dertakings and Actions. Alſo in all joy and happineſſe both earthly and heavenly.</p>
+               <p>It dejects and debaſes a man below the nature of beaſts, who by reaſon of their weakeneſſe &amp; want of reaſon are free from this folly and neuer afflict them<g ref="char:EOLhyphen"/>ſelves with evils paſt or feares to come, but freely enjoy all plea<g ref="char:EOLhyphen"/>ſures
+<pb n="118" facs="tcp:17154:59"/>
+incident to their nature ſave onely when they feele pre<g ref="char:EOLhyphen"/>ſent paine.</p>
+               <p>Let us not then ſo abuſe that Divine and heavenly light of reaſon which God hath given us, ſo as thereby to become more ſlaviſhly fearefull and worſe then beaſts, which wee ought rather to imploy in the ſearch and Enjoyment of for<g ref="char:EOLhyphen"/>titude, Magnanimity, and all felicity.</p>
+               <p>But if any man be ſo borne to a fearefull nature that yet notwithſtanding by Prudence and wiſedome he can acquire true valour and fortitude, and when there is need thereof, temper his naturall feares there<g ref="char:EOLhyphen"/>with, hee is not onely free from baſeneſſe but worthy of excee<g ref="char:EOLhyphen"/>ding admiration, who can
+<pb n="119" facs="tcp:17154:59"/>
+change a weake paſſion &amp; com<g ref="char:EOLhyphen"/>monly bad, into true vertue.</p>
+               <p>Let us therefore by Prudence endeavour to arme our ſelves with fortitude againſt all vn<g ref="char:EOLhyphen"/>worthy feares. Let us conſider that it is notable folly to feare that which cannot be avoided, to make our ſelves miſerable be<g ref="char:EOLhyphen"/>forehand, or to feare that which it may be will never come, or if it doe may be converted to our felicity, for oftentimes that which we moſt feare, brings in<g ref="char:EOLhyphen"/>deed moſt happineſſe.</p>
+               <p>Nor is it amiſſe ſometimes to Imagine the worſt of evils be<g ref="char:EOLhyphen"/>fore-hand, but to this intent onely to endeavour to prevent or contemne not feare them. Let us therefore endeavour to prepare our ſelves with forti<g ref="char:EOLhyphen"/>tude and Reſolution againſt the
+<pb n="120" facs="tcp:17154:60"/>
+greateſt miſeries that may hap<g ref="char:EOLhyphen"/>pen, to imitate the beſt and moſt Couragious men, to be as valiant as <hi>David</hi> to kill <hi>Goliah</hi> if he were now here, not to feare ten thouſand people, <hi>Pſal.</hi> 3. Nor though the Earth ſhould be remooved and the mountaines into the midſt of the Sea, <hi>Pſal.</hi> 46. Though wee were even at deaths doore, <hi>Pſal.</hi> 23. So let us endeavour not to feare any danger in a good cauſe; like St. <hi>Paul</hi> to be perſwaded, that nei<g ref="char:EOLhyphen"/>ther life nor death Angels nor Devils ſhall ever be able to ſe<g ref="char:EOLhyphen"/>perate us from the loue of God in Chriſt. Feare not little flocke (ſaith our Saviour) it is your Fathers good pleaſure to give you a Kingdome, what a groſſe abſurdity is it for a Son of God, an heire of heaven to be afraid.</p>
+               <p>
+                  <pb n="121" facs="tcp:17154:60"/>Let us further conſider the nobleneſſe and excellency of that heroicall vertue of forti<g ref="char:EOLhyphen"/>tude, which is the Contrary to, and remedy of this timorous paſſion.</p>
+               <p>True fortitude is placed be<g ref="char:EOLhyphen"/>tweene the two extreames of Cowardlineſſe, and Raſhneſſe; Theſe excellent vertues namely, Magnanimity, Confidence, Pa<g ref="char:EOLhyphen"/>tience, Noble reſolutions, Conſtancy, and perſeverance, are the parts and Branches thereof.</p>
+               <p>It is (as the moſt difficult) the moſt glorious vertue and produced moſt excellent effects, It is an Immortall good, ſeated in the ſoule Arming the ſame a<g ref="char:EOLhyphen"/>gainſt all perils and miſeries, taking away all unworthy feare of dangers, difficulties, ſorrowes,
+<pb n="122" facs="tcp:17154:61"/>
+and of death it ſelfe, advanceth the mind in a generous manner (Prudently without feare, Co<g ref="char:EOLhyphen"/>wardlineſſe and perplexity on the one ſide, and without Im<g ref="char:EOLhyphen"/>pudency, Raſhneſſe, and Care<g ref="char:EOLhyphen"/>leſſeneſſ, on the other) to aſpire to and accompliſh that which is moſt excellent and Commenda<g ref="char:EOLhyphen"/>ble, and finally Crowneth the mind with Triumph, joy and happineſſe.</p>
+               <p>Sorrow alſo is a paſſion moſt proper to this melancholly, cold and dry humour. It is a weake and languiſhing feeble<g ref="char:EOLhyphen"/>neſſe of ſpirit dejecting both body &amp; mind, cauſing all other perturbations, and is directly oppoſite to and hindereth alloy and Cheerefulneſſe.</p>
+               <p>Yet truely ſome ſorrowes,
+<pb n="123" facs="tcp:17154:61"/>
+ſome Croſſes and afflictions in this world are in divers reſpects even neceſſary and good for us. The ſame makes us wiſer, bet<g ref="char:EOLhyphen"/>ter, more circumſpect and dili<g ref="char:EOLhyphen"/>gent in all good and vertuous wayes, Quickens, refines, and Illuminates all goodneſſe, yea all enſuing joyes and happineſſe in vs. It is a fit mixture of Croſ<g ref="char:EOLhyphen"/>ſes, adverſity and ſorrowes that makes even Proſperity, joy, and felicity vnweariſome, &amp; moſt ſweet and pleaſant to us. How<g ref="char:EOLhyphen"/>ever we ſhould rejoyce to know that all ſorrow will haue an end either in heaven or before, and that joy after ſorrow paſt is moſt delightfull, yea that ſor<g ref="char:EOLhyphen"/>row it ſelfe may be converted alſo to the encreaſe of our hea<g ref="char:EOLhyphen"/>venly joy and happineſſe aſwel on Earth as in heaven eternally,
+<pb n="124" facs="tcp:17154:62"/>
+as I haue elſewhere ſhewed more plainly. Of all which, See <hi>Ter<g ref="char:EOLhyphen"/>reſtriall Paradice,</hi> Section, ij; And <hi>Heaven within vs,</hi> the xj. Diviſion.</p>
+               <p>Yet indeed, we ought as farre as we can poſſible by all good meanes to avoid this melanchol<g ref="char:EOLhyphen"/>ly paſſion of ſorrow and all the occaſions thereof. The rather be<g ref="char:EOLhyphen"/>cauſe it is the miſery of all evils, all vices and evill paſſions com<g ref="char:EOLhyphen"/>monly end in this of ſorrow &amp; ſadneſſe.</p>
+               <p>Jt defaces and dejects both body and ſoule. It hindereth ſleepe and reſt, cauſeth an ill ſtomacke, ill digeſtion, and conſequently maketh a man looke pale, leane, dry, wither'd and hindereth the whole health and welfare of the body, and of the mind alſo, weakning and
+<pb n="125" facs="tcp:17154:62"/>
+quelling the ſame, cauſing therein many other perturbati<g ref="char:EOLhyphen"/>ons, as feares, cares, diſtruſt, ſometimes deſperation, and many miſchiefes.</p>
+               <p>The ſame is moſt contrary to nature and reaſon, which excite us to joy and cheerefulneſſe (J meane herein onely of worldly ſorrow) It maketh the mind unapt to performe all goodneſſe and worthy enterpriſes, or to receive any good, any felicity, for even pleaſures and good fortunes are often diſpleaſing to ſorrowfull men, to whom every thing is unſavoury as dainty meate to a corrupted ſtomacke, and curious Muſick to a diſtem<g ref="char:EOLhyphen"/>pered mind. It maketh life it ſelfe tedious and irkeſome, and often cauſeth death before the time.</p>
+               <p>
+                  <pb n="126" facs="tcp:17154:63"/>Let us therefore even ſcorne to bee of ſuch a Melancholly, ſorrowfull, weake, dejected, and pernitious temper; Let us by all meanes endeavour to avoyd the ſame.</p>
+               <p>Let us as much as wee may poſſible by all pleaſant and joy<g ref="char:EOLhyphen"/>full thoughts baniſh this diſ<g ref="char:EOLhyphen"/>pleaſant paſſion of ſorrow out of our minds. Let us often bee thinking of ſuch delights and cuſtomes as are moſt pleaſing to our minds: And ſometimes let us recreate the ſame with change of delights and Novel<g ref="char:EOLhyphen"/>ties.</p>
+               <p>Sometimes it is alſo good to delight the mind in variety of pleaſant converſation, with moderate and lawful ſports and Recreations, with Banquetting, Mirth, Muſicke, and with all
+<pb n="127" facs="tcp:17154:63"/>
+good and harmleſſe pleaſures in a good manner, to drive away theſe melancholly ſorrowfull diſpoſitions.</p>
+               <p>There are abundance and va<g ref="char:EOLhyphen"/>riety of delights and pleaſures within this vaſt pallace of the univerſe, to recreate and pleaſe all our ſences and ſpirits, Even a Terreſtriall Paradice of happi<g ref="char:EOLhyphen"/>neſſe, of which J have taken a briefe view in a former Booke; And alſo wee may by faithfull and heavenly Contemplations enjoy even a Paradice of hea<g ref="char:EOLhyphen"/>venly delights on Earth, within us, of which more hereafter. Let us then endeavour (by enjoying ſo many and ſuch excellent de<g ref="char:EOLhyphen"/>lights and felicities both earth<g ref="char:EOLhyphen"/>ly and heavenly within us) to poſſeſſe our minds with true Peace, Ioy, Lightſomeneſſe,
+<pb n="128" facs="tcp:17154:64"/>
+Mirth and Pleaſure; Then which nothing is more excellent, wherein conſiſteth this happi<g ref="char:EOLhyphen"/>neſſe of the Mind; This Para<g ref="char:EOLhyphen"/>dice within us, which we ſeeke for.</p>
+               <q>
+                  <l>So if wee could this</l>
+                  <l>joyfull lightſomeneſſe</l>
+                  <l>This mirth and pleaſure</l>
+                  <l>in our minds poſſeſſe</l>
+                  <l>A pleaſing Paradice</l>
+                  <l>then ſhould wee find</l>
+                  <l>Within vs in this</l>
+                  <l>happy pleaſant Mind.</l>
+               </q>
+            </div>
+            <div n="8" type="part">
+               <pb n="129" facs="tcp:17154:64"/>
+               <head>
+                  <hi>THE VIII. DIVISION.</hi> Of mixt Complexions and vari<g ref="char:EOLhyphen"/>ous minds, of ſuch as are of envious, malicious, revenge<g ref="char:EOLhyphen"/>ful, cruel, obſtinate, froward, ſullen, desperate minds, exci<g ref="char:EOLhyphen"/>ting to love, kindneſſe, clemen<g ref="char:EOLhyphen"/>cy. humanity, cheerefulneſſe, and in generall to all vertue, joy, pleaſure, and happineſſe.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Uch men as are of mixt Complexi<g ref="char:EOLhyphen"/>ons, if they bee of a perfect &amp; good temper, That is of an equall mixture, a convenient agree<g ref="char:EOLhyphen"/>ment and proportion of the quality and quantity of each clement and of pure humours
+<pb n="130" facs="tcp:17154:65"/>
+and ſpirits, wherein no exceſſe, no diſorder, or diſagreement is to bee found faulty or blame-worthy, ſuch men if they give themſelves to good and vertu<g ref="char:EOLhyphen"/>ous Courſes, are moſt fit and well diſpoſed for all vertue and goodneſſe, to undertake and ac<g ref="char:EOLhyphen"/>compliſh all worthy and excel<g ref="char:EOLhyphen"/>lent matters; To attaine and enjoy all true pleaſure and hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+               <p>Let ſuch men therefore (by a good diet and due obſervation of a convenient proportion and moderation or theſe ſixe Non-naturall things before mentioned in the third Diviſi<g ref="char:EOLhyphen"/>on) cheriſh and mainetaine themſelves in this good Tem<g ref="char:EOLhyphen"/>per both of body and mind; And by all good endeavours, ſtill goe on in this happy way of vertue,
+<pb n="131" facs="tcp:17154:65"/>
+which leadeth us to the Paradice of joy and felicity.</p>
+               <p>But if ſuch men ſhall give themſelves to vice and wicked<g ref="char:EOLhyphen"/>neſſe, eſpecially if to Intempe<g ref="char:EOLhyphen"/>rance and Prodigall diſſolute courſes. They doe oftentimes in tract of time (notwithſtanding their excellent temper) become moſt unhealthy, and diſtempe<g ref="char:EOLhyphen"/>red in body, and their minds moſt prone and forward to all the worſt and moſt pernitious vices and miſecries, for as one well obſerveth; That notable wickednes commonly proceeds not ſo much from a weak, fraile, dull, lumpiſh, and diſtempered nature, as from an excellent na<g ref="char:EOLhyphen"/>ture that is corrupted by evill company, evill manners, Intem<g ref="char:EOLhyphen"/>perance, and cuſtome in diſſo<g ref="char:EOLhyphen"/>lute
+<pb n="132" facs="tcp:17154:66"/>
+and vicious courſes.</p>
+               <p>And wee may obſerve that many men, by Intemperate, Luxurious diſſolute Courſes, from perfect well tempered men, doe become of body fat, groſſe, lazy, dull lubbers, ſtuft with corrupted phlegme and evill melancholly humors; And yet notwithſtanding inflamed with hot bloud and very Chol<g ref="char:EOLhyphen"/>lericke; Alſo the conditions of the mind very various, and vi<g ref="char:EOLhyphen"/>cious. But moſt properly diſpo<g ref="char:EOLhyphen"/>ſed to and poſſeſt with Envie, Malice, Hatred, Revenge; And ſuch vices and evils as proceed from thence; Alſo commonly, very froward, ſad, ſurly, ſullen, teſty, quarrelſome, obſtinate, and ſtrangely Melancholly and diſ<g ref="char:EOLhyphen"/>contented.</p>
+               <p>Yet ſometimes indeed though
+<pb n="133" facs="tcp:17154:66"/>
+ſeldome, when the Sanguine humour is predominate or hea<g ref="char:EOLhyphen"/>ted by Wine or ſuddaine plea<g ref="char:EOLhyphen"/>ſing objects, they become very, merry, loud, familiar, pleaſant and joviall. But this humour laſteth not, and as ſoone as the heate or the liquor and the va<g ref="char:EOLhyphen"/>pours thereof are refrigerated and peſtered in the braine and the former pleaſant objects (ei<g ref="char:EOLhyphen"/>ther removed or after a little while thought upon) being paſt they become worſe then before, more Sullen, Sad, Surly, froward, malitious, obſtinate, and diſcon<g ref="char:EOLhyphen"/>tented. Inſomuch, as in proceſſe of time by long uſe and cuſtome in vitious Courſes, even among their Cups, Laſſes, and Joviall Companions, they oftentimes become extreamely vext, ſad, ſullen, froward, quarrelſome,
+<pb n="134" facs="tcp:17154:67"/>
+and diſcontented. Yea, inſo<g ref="char:EOLhyphen"/>much as ſometimes even in laughter, their harts are ſorrow<g ref="char:EOLhyphen"/>full (as King <hi>Salomon</hi> ſpea<g ref="char:EOLhyphen"/>keth) and the end of their viti<g ref="char:EOLhyphen"/>ous diſſolute pleaſures becomes as bitter as Worme-wood, and ſometimes turned even to deſ<g ref="char:EOLhyphen"/>perate griefe and miſery.</p>
+               <p>Theſe mixt diſtempers of body and mind, are by ſome Phyſiti<g ref="char:EOLhyphen"/>ans called, unnaturall Melancho<g ref="char:EOLhyphen"/>ly, ariſing from a mixture of ex<g ref="char:EOLhyphen"/>ceſſive corrupted &amp; diſtempered humours, as either from Choller, Melancholly, and bloud adult and Corrupted, or elſe from a<g ref="char:EOLhyphen"/>bundance of unnaturall and un<g ref="char:EOLhyphen"/>neceſſary humours in the body, cauſed, contracted, corrupted, in<g ref="char:EOLhyphen"/>flamed and diſtempered by intemperance and diſorderly courſes; inſomuch as a Medley
+<pb n="135" facs="tcp:17154:67"/>
+of diſeaſes and perturbations are oftentimes thereby occaſioned.</p>
+               <p>For Remedies whereof; Firſt concerning Diet, we can ſafely preſcribe neither a hote, cold, moiſt, nor indeed any kind of diet or uſage therein to doe ſuch men good without ſome hurt to ſome of their infirmities and ill humours, onely we are to tell them, That there is nothing better for them then a ſpare ob<g ref="char:EOLhyphen"/>ſtemious Diet, for much Diet of what kind ſoever, doth nouriſh and encreaſe ſome of the ill hu<g ref="char:EOLhyphen"/>mours of their bodies.</p>
+               <p>But a very ſpare diet both of meate and drinke, as one tem<g ref="char:EOLhyphen"/>perate meale or two in a day at the moſt, and thoſe of ſuch kind of diet as is wholeſome and not too much nouriſhing, is moſt good for them; for by this
+<pb n="136" facs="tcp:17154:68"/>
+meanes (if obſerved commonly though perchance not alwaies, but onely with conveniency and without too much niceneſſe) the Crudities, Rheumes, and ſuperfluous ill humours in the body, will in good time by little and little be conſumed, or at leaſt well mittigated, drayned, and cleered, obſtructions ope<g ref="char:EOLhyphen"/>ned, and the paſſages of the ſpi<g ref="char:EOLhyphen"/>rits alſo made cleere and free. So as the mind likewiſe will be leſſe clogged with the groſſe vapours proceeding from ful<g ref="char:EOLhyphen"/>neſſe, and repletion, and from thoſe multitude of Corrupted humours in the body, and ſo made free and expedite to per<g ref="char:EOLhyphen"/>forme all the functions there<g ref="char:EOLhyphen"/>of, ſo as not onely the paſſions and affections will be molified and better tempered, but the
+<pb n="137" facs="tcp:17154:68"/>
+whole ſoule made more free and cheerefull in the performance of all the Actions and exerciſes thereof.</p>
+               <p>In ſumme, by this moſt ex<g ref="char:EOLhyphen"/>cellent medicine of a ſpare diet, A moſt corrupted body and mind full fraught with evill hu<g ref="char:EOLhyphen"/>mours and diſpoſitions may be cured, cleered, and reduced to a good temper and diſpoſition, at leaſt in a good meaſure.</p>
+               <p>And indeed it were very good for ſuch men alſo ſpeedily to purge and evacuate thoſe ill hu<g ref="char:EOLhyphen"/>mors out of their bodies, which doe ſo annoy and diſtemper them, for purging is eſpecially to be uſed by ſuch as have di<g ref="char:EOLhyphen"/>ſtempered their bodies by in<g ref="char:EOLhyphen"/>temperance and ill Courſes, for all exceſſe doth adde to the ill humours in the body which
+<pb n="138" facs="tcp:17154:69"/>
+diſperſe through the ſame; And after in time encreaſing and contracting doe fill and corrupt the body, cauſing therein many infirmities and diſeaſes.</p>
+               <p>So as ſuch diſtempers of the body as have their beginning from repletion (which are in<g ref="char:EOLhyphen"/>deed almoſt all the diſeaſes of our times) are to be remedied by evacuation, and principally by purging medicines, empty<g ref="char:EOLhyphen"/>ing the body of unneceſſary phlegme and ſerioſity, or thinne wateriſh humours, and of ſuper<g ref="char:EOLhyphen"/>fluous corrupted Choller and Melancholly.</p>
+               <p>The beſt time of purging is in the Spring or Autumne, and it were good for ſuch as live very intemperately to purge once at the leaſt, or twice every yeare.</p>
+               <p>And for the manner of an
+<pb n="139" facs="tcp:17154:69"/>
+exact purge, Phyſitians ſay it is not amiſſe that the body be firſt opened with a Cliſter, And if much bloud and ſanguine hu<g ref="char:EOLhyphen"/>mours abound and be corrupted to begin with Phlebotomy (if age, weakeneſſe, or other occa<g ref="char:EOLhyphen"/>ſion hinder not) opening the Cephalica veine in the Arme, and then the humours to bee made plyable to nature. This being done now to expell, con<g ref="char:EOLhyphen"/>coct, and purge the humours ſoundly which moleſt the body, with ſuch apt medicines as are appropriated to evacuate and purge ſuch ſeverall humours as doe abound therein.</p>
+               <p>If the ſtomacke and body bee very much ſtuft, foule, and cor<g ref="char:EOLhyphen"/>rupted, it will not be amiſſe to uſe a vomit, and after the ſame preſently to take ſuch things as
+<pb n="140" facs="tcp:17154:70"/>
+will ſtrengthen the weakned parts, comfort the braine, Heart, Liver, Splene, and diſperſe the Reliques, ſuch as are Triacle, Methridate, and divers others.</p>
+               <p>If Intemperance and diſorder have beene long uſed or if the diſeaſe be old, it is not amiſſe to purge three or foure times gent<g ref="char:EOLhyphen"/>ly, becauſe ill humours which have remained long in the bo<g ref="char:EOLhyphen"/>dy cannot ſo well be expelled by a ſuddaine purgation at once as by degrees.</p>
+               <p>It is good alſo for ſuch as a<g ref="char:EOLhyphen"/>bound with Phlegme to purge the ſame by degrees at three or foure ſeverall times rather then ſuddainly at once, becauſe clam<g ref="char:EOLhyphen"/>my Phlegme will not eaſily and preſently follow a ſuddaine Purgation; But choller being more thinne and moveable is
+<pb n="141" facs="tcp:17154:101"/>
+more eaſily purged.</p>
+               <p>But foraſmuch as there are many and divers matters to bee obſerved herein, as the humour which aboundeth; The nature of the Diſeaſe; The ſtrength age, and Complexion of the perſon; The operation and force of the Purgation, and the parti<g ref="char:EOLhyphen"/>culars thereof, aptly to be ſorted and appropriated to the nature of the diſeaſe and humours a<g ref="char:EOLhyphen"/>bounding; Alſo how much, how often to purge, how farre to proceed, and by what wayes and paſſages; all which, requiring a large diſcourſe, I referre the ſame and ſuch as have occaſion to uſe them, to the advice of ſome honeſt, skilfull, practicall Phyſitian, whoſe directions and aſſiſtance is moſt convenient, and ought to bee had concer<g ref="char:EOLhyphen"/>ning
+<pb n="142" facs="tcp:17154:102"/>
+theſe matters. So may theſe Cures and Remedies be happily effected (they being carefull that univerſals be in right manner ſorted with particulars) and the body and mind reduced to its naturall good Temper and diſ<g ref="char:EOLhyphen"/>poſition.</p>
+               <p>Concerning other Evacuati<g ref="char:EOLhyphen"/>ons and particular Cures and Remedies of the many and di<g ref="char:EOLhyphen"/>vers ſeverall Diſeaſes incident to man; Since they are too large to be treated of in, this briefe and Compendious Diſcourſe, And are amply dilated and trea<g ref="char:EOLhyphen"/>ted of by divers, in great vo<g ref="char:EOLhyphen"/>lumes, and leſſe neceſſary to be vulgarly knowne, then the for<g ref="char:EOLhyphen"/>mer preſcriptions, I omit. The rather becauſe I conceive, That if the body be well purged of ſuch ill humours as abound
+<pb n="143" facs="tcp:17154:102"/>
+therein, and afterwards a good and apt diet be obſerved, it is ſufficient for the cure of almoſt all Diſeaſes, eſpecially ſuch as are bred by Repletion (which are the moſt common maladies of our age) unleſſe they be inve<g ref="char:EOLhyphen"/>terate and uncureable. However ſuch directions and remedies may doe us much good, and make the Temper of our bodies and minds much better then o<g ref="char:EOLhyphen"/>therwiſe.</p>
+               <p>All theſe Rules and preſcrip<g ref="char:EOLhyphen"/>tions are very good to be known and obſerved aſwell by the healthy as the diſeaſed, and in their due uſe and obſervation may cauſe much benefit and happineſſe.</p>
+               <p>Neither doe we want Reme<g ref="char:EOLhyphen"/>dies though the body be incure<g ref="char:EOLhyphen"/>able,
+<pb n="144" facs="tcp:17154:103"/>
+we may remedy the miſe<g ref="char:EOLhyphen"/>ries thereof by the mind which is its Governour, and ought as much as it may to comfort the ſame: for as the body workes upon the mind as hath bin ſhew'd. So much more doth the mind worke upon the body.</p>
+               <p>For the reaſonable ſoule being Immortall and Divine, doth guide and governe the Animall Spirits which are the organs thereof, as the fabricke of the parts of the body is the organ of theſe animall Spirits.</p>
+               <p>And theſe ſpirits like a quick, light flame doe continually worke on the body as the ſoule doth on them, they make the body lively, and lighter, partly by refining the moiſture there<g ref="char:EOLhyphen"/>of, and converting the ſame into themſelves, and alſo by infuſing
+<pb n="145" facs="tcp:17154:70"/>
+themſelves into all the parts thereof, enliving, lightning, quickning and ſpiritualizing the ſame.</p>
+               <p>The Divine and reaſonable ſoule therefore ought as much as it may to ſpiritualize, quicken and comfort the living Spirits; in ſuch ſort, that the body being guided by theſe ſpirits, theſe wholly dependant on the reaſo<g ref="char:EOLhyphen"/>nable ſoule, and the ſoule being guided by divine grace which is as it were the life thereof, and by faith having its Converſation in heaven with God, (viewing and enjoying thereby in ſome meaſure already his heavenly glory and felicities, expecting the ſame hereafter to be revealed infinitely, and to enjoy the ſame in perfection eternally) even forgetteth the griefe of the bo<g ref="char:EOLhyphen"/>dy,
+<pb n="146" facs="tcp:17154:71"/>
+or rather, doth convert e<g ref="char:EOLhyphen"/>ven the ſenſes and ſpirits there<g ref="char:EOLhyphen"/>of into the purer parts of the ſoule, which in faithfull contem<g ref="char:EOLhyphen"/>plation being poſſeſt with hea<g ref="char:EOLhyphen"/>venly Joy in God, the whole man is as it were ſpiritualiz'd and tranſported with divine pleaſures.</p>
+               <p>However if by reaſon of our frailties and weakeneſſe we can<g ref="char:EOLhyphen"/>not attaine to ſuch Divine exta<g ref="char:EOLhyphen"/>ſies and tranſportations, yet we may know that <hi>our Corruption ſhall put on Incorruption, and our Mortality ſhall inherit Im<g ref="char:EOLhyphen"/>mortality,</hi> 1 <hi>Cor.</hi> 15. <hi>That our fraile bodies ſhall be changed and made ſpirituall bodies like the glorious body of the Sonne of God, (Phil.</hi> 3, 21) With whom we ſhall enjoy infinite happi<g ref="char:EOLhyphen"/>neſſe for ever. How may ſuch
+<pb n="147" facs="tcp:17154:71"/>
+faithfull Contemplations com<g ref="char:EOLhyphen"/>fort vs in greateſt maladies and diſtempers, yea even in death it ſelfe, ſince the ſame is a paſſage to heaven, when ceaſing to be as men wee ſhall begin to live the life of Angels, with God him<g ref="char:EOLhyphen"/>ſelfe in heavenly glory and happineſſe.</p>
+               <p>But to Returne;</p>
+               <p>Now to remedy ſuch paſſions of the mind as are moſt incident to theſe mixt diſtempers of the body, which being compos'd (as in a medley) of all the ſu<g ref="char:EOLhyphen"/>perfluous humours aduſt, cor<g ref="char:EOLhyphen"/>rupted, and diſtempered, doe cauſe the mind in a mixt diſtem<g ref="char:EOLhyphen"/>per alſo to apprehend all things in a bad manner, as having En<g ref="char:EOLhyphen"/>mity, and ſo doth edge and en<g ref="char:EOLhyphen"/>eager malice, and provoke Re<g ref="char:EOLhyphen"/>venge and Cruelty.</p>
+               <p>
+                  <pb n="148" facs="tcp:17154:72"/>For remedies hereof, Let vs conſider that theſe evill diſpoſi<g ref="char:EOLhyphen"/>tions of Envie, hatred, malice, Revenge and Cruelty (being ſeldome one without the other) are Compounded of many other vices, and are the occaſions of many evils, and even of de<g ref="char:EOLhyphen"/>ſtroying all humanity and goodneſſe.</p>
+               <p>Envie and malice are ſtrange paſſions, Gnawing the heart and turning the good of ano<g ref="char:EOLhyphen"/>ther to the envious mans hurt. Good and proſperous men as alſo their good deeds, goods, and proſperity are eye ſores to envious malitious Spirits, cau<g ref="char:EOLhyphen"/>ſing in them deſpight, griefe, and even gnaſhing of teeth. While the envious miſchievous man looketh obliquely upon the goods of another he looſeth
+<pb n="149" facs="tcp:17154:72"/>
+that which is good in him<g ref="char:EOLhyphen"/>ſelfe, or at leaſt takes no delight in it; But fretteth to ſee ano<g ref="char:EOLhyphen"/>ther man doe well and proſper. So as hee ſuffereth in himſelfe the evill which he wiſheth to another.</p>
+               <p>It appeares therefore, that en<g ref="char:EOLhyphen"/>vious, malitious, ſpightfull people, do more hurt and vexe themſelves then others, for a thouſand vexations doe gnaw and poſſeſſe the hearts of thoſe that are infected with thoſe evill diſpoſitions; and many times hatefull Injuries, miſchiefes, and villanous practiſes are wrought and executed to ſatisfie theſe deteſtable vices and paſſions.</p>
+               <p>Revenge alſo is often accom<g ref="char:EOLhyphen"/>panied with hatred, Malice, En<g ref="char:EOLhyphen"/>vy, ſlandering, lying, Backbiting Cruelty, murder and a multi<g ref="char:EOLhyphen"/>tude
+<pb n="150" facs="tcp:17154:73"/>
+of miſcheifes.</p>
+               <p>Theſe evill diſpoſitions pro<g ref="char:EOLhyphen"/>ceed from the inward malignity of the ſoule, which vnnaturally and miſchievouſly feedeth on and delighteth in the hurt of another man.</p>
+               <p>They are moſt deteſtable vices and as it is obſerved vſually in<g ref="char:EOLhyphen"/>habite in weake Cowardly ſpi<g ref="char:EOLhyphen"/>rits, ſavouring of a vile and ab<g ref="char:EOLhyphen"/>ject mind; yet we may obſerue that ſuch kind of men though not daring to be truely valarous have yet even for feare an itch to be eſteemed ſo, for knowing in themſelves this baſe Coward<g ref="char:EOLhyphen"/>lineſſe, they endeavour by all meanes to hide the ſignes there<g ref="char:EOLhyphen"/>of, and cunningly can faine bold and bragging ſpeeches, chal<g ref="char:EOLhyphen"/>lenging as it were all dangers when they ſee they are farre
+<pb n="151" facs="tcp:17154:73"/>
+from them, but if neere them they can put up Injuries with their feare, yet when they get advantage without danger to themſelves to hide their feare they become very Spightfull, Jnjurious, Revengefull, and cruell bloudſuckers. For wee ever ſee the moſt vnworthy men of baſeſt and loweſt temper, to be moſt malicious, revengefull, and cruell; A truely valorous man doth alwayes fairely exer<g ref="char:EOLhyphen"/>ciſe his ſtrength againſt a re<g ref="char:EOLhyphen"/>ſiſting enemy, whom hee hath no ſooner at his mercy but he is ſatisfied.</p>
+               <p>Seldome doe theſe evill diſpo<g ref="char:EOLhyphen"/>ſitions find harbor in well bred generous minds, who common<g ref="char:EOLhyphen"/>ly are of ſuch an excellent tem<g ref="char:EOLhyphen"/>per as they can ſcorne the cauſe<g ref="char:EOLhyphen"/>leſſe and womaniſh brawlings
+<pb n="152" facs="tcp:17154:74"/>
+of haſty fooles and men of un<g ref="char:EOLhyphen"/>worthy temper. A truely wor<g ref="char:EOLhyphen"/>thy heroicall Spirit is farre a<g ref="char:EOLhyphen"/>boue ſuch mens envie and ma<g ref="char:EOLhyphen"/>lice, and he regards their de<g ref="char:EOLhyphen"/>traction, lying, ſlanders, ſpight, &amp; brawling, as he doth the bar<g ref="char:EOLhyphen"/>king of a Dog: It is for men of lower, baſer temper, to be vext &amp; diſtempered at ſuch trivial mat<g ref="char:EOLhyphen"/>ters, and we ever ſee the baſeſt, moſt cowardly, worthleſſe and weakeſt ſpirits to be moſt en<g ref="char:EOLhyphen"/>vious, malitious, cruell, Inſolent miſchievous and revengefull.</p>
+               <p>It is indeed, true magnani<g ref="char:EOLhyphen"/>mity to contemne Injuries, There is nothing that ſhewes ſo great, ſo worthy, and victorious a mind as a couragious inſenſi<g ref="char:EOLhyphen"/>bility of reproaches, detraction and injuries; to diſdaine the car<g ref="char:EOLhyphen"/>ping cenſures &amp; biteleſſe bar<g ref="char:EOLhyphen"/>kings
+<pb n="153" facs="tcp:17154:74"/>
+of the Curres of the world, I meane ſuch men as are of baſe unworthy, envious, malicious, vitious, diſſolute minds. But all good and vertuous men while we doe well will love us, and hate to abuſe us.</p>
+               <p>It is an excellent revenge and grievous to maligne Spirits (as to fooles) to contemne or make no account of them or their words. It is a weakneſſe of mind not to know how to contemne an offence. For a man to be ma<g ref="char:EOLhyphen"/>licious, envious detractive, re<g ref="char:EOLhyphen"/>proachfull, brawling, and Re<g ref="char:EOLhyphen"/>vengefull is to confeſſe him<g ref="char:EOLhyphen"/>ſelfe griev'd, touch't, guilty, impotent and Inferiour. Mag<g ref="char:EOLhyphen"/>nanimity and true valour is ſel<g ref="char:EOLhyphen"/>dome troubled with ſuch evill diſpoſitions. A high and gene<g ref="char:EOLhyphen"/>rous mind is not ſubject to In<g ref="char:EOLhyphen"/>jury,
+<pb n="154" facs="tcp:17154:75"/>
+it revengeth not Injuries becauſe it feeleth them not.</p>
+               <p>It is a fayre and honourable way and hath often bin prac<g ref="char:EOLhyphen"/>tiz'd by the greateſt Princes and Captaines, ſuch as have bin of moſt high and noble minds, to avenge the Injuries of malici<g ref="char:EOLhyphen"/>ous, Envious, people onely by contemning them, nay more by doing good to ſuch as have Injured them, inſomuch as by reaſon thereof they have made many of their enemies to be aſham'd of their folly, to ſtoope to their vertue and nobleneſſe; and wee ſhould know that by how much the more wee haue ſuffered, ſo much more com<g ref="char:EOLhyphen"/>mendable and honourable it is to be gracious, and pardon.</p>
+               <p>So that it is the property of great and noble minds to con<g ref="char:EOLhyphen"/>temne
+<pb n="155" facs="tcp:17154:75"/>
+malice and injuries, to be of a mild, courteous, and gra<g ref="char:EOLhyphen"/>cious temper, ready to forgive and pardon. And it is a great point of magnanimity in this matter to ſurmount the commo<g ref="char:cmbAbbrStroke">̄</g> nature of men, by a wonderfull divinity of the ſoule (leaving vengeance to whom it belong<g ref="char:EOLhyphen"/>eth) to learne of our Saviour to bleſſe them that curſe us, to doe good to them that hate us; To love that which is good even in our enemies, pittying their vi<g ref="char:EOLhyphen"/>ce, and evill diſpoſitions, and endeavouring to make them worthy of love by all good wayes and offices.</p>
+               <p>Some enemies (aſwell as friends) are neceſſary, they make us more circumſpect, more dili<g ref="char:EOLhyphen"/>gent, wiſer and better, we may and often do extract, abundance
+<pb n="156" facs="tcp:17154:76"/>
+of good even from their malice and reproaches; Therefore, alſo we ſhould rather endeavour to love, then hate them, becauſe they are neceſſary and often doe us good.</p>
+               <p>It is revenge enough for us to know that envious, malicious, ſpightfull people doe moſt of all torment their owne hearts by theſe turbulent paſſions; for vice ſuffereth not the mind to reſt but filleth the ſame with di<g ref="char:EOLhyphen"/>ſtempers and vexations.</p>
+               <p>But the beſt revenge againſt envious, malicious people is; To endeavour to doe ſo much the more well, as they ſeek to injure us, by which meanes in the end we ſhall ſurely make them Ly<g ref="char:EOLhyphen"/>ars; So may their reproaches, Impudency, Inſolency, malice, and injuries, in good time turne
+<pb n="157" facs="tcp:17154:76"/>
+to our good and their owne ſhame, by this meanes alſo their vexations are doubled, for wee cannot anger our maligne, ma<g ref="char:EOLhyphen"/>licious enemies worſe then to doe well and proſper.</p>
+               <p>Let us then by all meanes a<g ref="char:EOLhyphen"/>void thoſe evill and vicious diſ<g ref="char:EOLhyphen"/>poſitions of Envie, Hatred, Ma<g ref="char:EOLhyphen"/>lice, Cruelty, Revenge, and the like; Let us give even our ene<g ref="char:EOLhyphen"/>mies their due praiſe and ho<g ref="char:EOLhyphen"/>nour, Rejoycing at the good of all men, which truely ſhewes a vertuous and divine diſpoſition. And to be pleas'd and rejoyce at another mans good is to increaſe our owne.</p>
+               <p>Let theſe gracious and noble vertues of Humanity, Clemen<g ref="char:EOLhyphen"/>cy, Affability, Charity, kindneſſe and all good diſpoſitions, ſtill poſſeſſe us; which excellent ver<g ref="char:EOLhyphen"/>tues
+<pb n="158" facs="tcp:17154:77"/>
+doe furniſh us with ſuch a modeſt, generous pleaſing and gracious behaviour as winneth unto us the love of all good and vertuous men; Yea, maketh us agreeable unto, and beloved of God himſelfe, and poſſeſſe our minds with ſweet and pleaſing Joyes and Happineſſe.</p>
+               <p>Further, whereas theſe mixt evill humours of the body, and diſpoſitions of the mind, compo<g ref="char:EOLhyphen"/>ſed of ſundry various diſtem<g ref="char:EOLhyphen"/>pers, vices, and evill paſſions do oftentimes (as hath beene ſhew<g ref="char:EOLhyphen"/>ed) cauſe the mind to become exceeding ſad, ſullen, diſconten<g ref="char:EOLhyphen"/>ted and obſtinate in all maligne diſpoſitions, yea ſometimes by long cuſtome to become even wilfully and deſperately diſcon<g ref="char:EOLhyphen"/>tented, raging and miſerable, let
+<pb n="159" facs="tcp:17154:77"/>
+us conſider that theſe (being a mixture and compounded of all the other various perturbations of the mind) are the greateſt, yea even the finall end and ſumme of all the former menti<g ref="char:EOLhyphen"/>oned miſeries. And in the fur<g ref="char:EOLhyphen"/>theſt degree hindering this joy and happineſſe of the mind which wee ſeeke for. And it is the miſery of miſeries to be wil<g ref="char:EOLhyphen"/>full and obſtinate therein.</p>
+               <p>It is alſo in the furtheſt degree remote from nature and reaſon which excite us to nothing more then to the willing deſire and diligent Inquiſition, ſearch and enjoyance of pleaſure and happineſſe; And in truth there be ſo many thouſand delights on Earth to pleaſe all our Sen<g ref="char:EOLhyphen"/>ces, which we may enjoy, yea we may enjoy ſuch and ſo many
+<pb n="160" facs="tcp:17154:78"/>
+heavenly pleaſures even on Earth, as truly if we were wiſe and divine enough, would fill our minds with ſuch joy and happineſſe, as that we ſhould <hi>re<g ref="char:EOLhyphen"/>joyce evermore,</hi> as S. <hi>Paul</hi> exhor<g ref="char:EOLhyphen"/>teth us, we ſhould be unexpreſſa<g ref="char:EOLhyphen"/>bly pleaſant &amp; joyful, we ſhould as farre as our minds are capa<g ref="char:EOLhyphen"/>ple enjoy the pleaſures of Earth and Heaven within us. But of theſe more in the enſuing Di<g ref="char:EOLhyphen"/>viſions.</p>
+               <p>To conclude then, in generall let us endeavour by all meanes to drive away and baniſh out of our minds all evill paſſions and perturbations, All Sloth, Lazineſſe, Dulneſſe, Sottiſhneſſe, and baſe mindedneſſe; All In<g ref="char:EOLhyphen"/>temperate, Riotous, diſſolute pleaſures, and ſelfe-conceited
+<pb n="161" facs="tcp:17154:78"/>
+vaine-glorious diſpoſitions; All Pride, Ambition, Choller, An<g ref="char:EOLhyphen"/>ger, and Raſhneſſe; All Melan<g ref="char:EOLhyphen"/>cholly, Covetouſneſſe, Feare, Sorrow, and Sadneſſe; All En<g ref="char:EOLhyphen"/>vie, Hatred, Malice, Revenge, Cruelty, Sullenneſſe, Obſtinacy and Deſperation. And on the contrary as much as wee may poſſibly, let us poſſeſſe our minds with livelineſſe, quick<g ref="char:EOLhyphen"/>neſſe, perſpicacity, and gallant<g ref="char:EOLhyphen"/>neſſe of Spirit, with moderation Temperance, Humility, Meeke<g ref="char:EOLhyphen"/>neſſe, Tranquility, Mildneſſe, with Contentation, Fortitude, Cheerefulneſſe, with Humanity, Affability, Love, kindneſſe, and with all Joy and Happineſſe.</p>
+               <p>Me thinkes if we could truely conſider, and think of the many and divers ſorts of delightfull felicities both earthly and hea<g ref="char:EOLhyphen"/>venly
+<pb n="162" facs="tcp:17154:79"/>
+which we may enjoy, it were enough to make our minds immediately leape out of all ill paſſions and perturbati<g ref="char:EOLhyphen"/>ons, into moſt ſweet Peace, Joy, Mirth, livelineſſe, and pleaſure; So as to enjoy even a Paradice of delights and happineſſe within us.</p>
+               <q>
+                  <l>There is ſo many</l>
+                  <l>pleaſures, which wee may</l>
+                  <l>(Aſwell Terreſtriall</l>
+                  <l>as divine) enjoy</l>
+                  <l>That who enjoyes all</l>
+                  <l>ſuch felicities</l>
+                  <l>Enjoyes an Earthly,</l>
+                  <l>heavenly Paradiſe.</l>
+               </q>
+            </div>
+            <div n="9" type="part">
+               <pb n="163" facs="tcp:17154:79"/>
+               <head>
+                  <hi>THE IX. DIVISION.</hi> That by vertue the Mind be<g ref="char:EOLhyphen"/>comes apt and well prepared to enjoy the choiceſt and ſwee<g ref="char:EOLhyphen"/>teſt felicities on Earth.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>O then, having briefly endeavou<g ref="char:EOLhyphen"/>red to ſhew the fe<g ref="char:EOLhyphen"/>licity of a vertu<g ref="char:EOLhyphen"/>ous mind; The way to gaine the ſame, to eſchew ſuch Maladies, diſtempers, paſſions and pertur<g ref="char:EOLhyphen"/>bations as hinder this happi<g ref="char:EOLhyphen"/>neſſe, alſo to embrace ſuch ami<g ref="char:EOLhyphen"/>able and delightfull vertues as may encreaſe the ſame; Now let us alſo further and more plainely view how that by ver<g ref="char:EOLhyphen"/>tue
+<pb n="164" facs="tcp:17154:80"/>
+our minds become moſt apt and well diſpoſed to enjoy the felicities of Earth and Heaven.</p>
+               <p>And firſt concerning Earth<g ref="char:EOLhyphen"/>ly felicities, to inſtance briefely and to begin with Riches and honour.</p>
+               <p>Firſt, no men on Earth are more like to attaine Riches and honor then vertuous men, by reaſon their minds are free from Sloth, dulneſſe, Careleſſeneſſe, Intem<g ref="char:EOLhyphen"/>perance, Riot, and ſuch diſſo<g ref="char:EOLhyphen"/>lute Courſes, as uſually are the occaſions of diſhonour and of declining in eſtates and for<g ref="char:EOLhyphen"/>tunes. And no men living are more likely to gaine Riches and honour then the induſtrious, diligent, temperate, frugall, un<g ref="char:EOLhyphen"/>paſſionate, courteous, affable, and every way vertuous man.</p>
+               <p>
+                  <pb n="165" facs="tcp:17154:80"/>Secondly, no men doe enjoy more felicity therein, then ver<g ref="char:EOLhyphen"/>tuous men for why, by reaſon their minds are active, perſpi<g ref="char:EOLhyphen"/>cuous, free, and filled with the delights and felicities of vertue, the ſame becommeth well pre<g ref="char:EOLhyphen"/>pared to enjoy theſe earthly Treaſures and felicities, and we know that a free and cheerefull mind enjoyes all things with farre greater happineſſe then a dull, ſottiſh, turbulent, vicious, paſſionate, diſcontented Mind.</p>
+               <p>Yea, (which ſeemes a Para<g ref="char:EOLhyphen"/>dox) it is certaine that even Covetous and Ambitious men take not ſo much pleaſure in Riches and honour, which they ſo much eſteeme, as the conten<g ref="char:EOLhyphen"/>ted vertuous man; for Covetouſ<g ref="char:EOLhyphen"/>neſſe and Ambition doe not onely blind and draw away the
+<pb n="166" facs="tcp:17154:81"/>
+mind from all the choyceſt earthly pleaſures, yea and hea<g ref="char:EOLhyphen"/>venly alſo; But which is moſt ſtrange even from the pleaſures which otherwiſe they might enjoy in Riches and Honour, for Covetous and Ambitious men, regard not ſo much what what felicity they may derive from that which they poſſeſſe, but ſtill thinke how well they ſhould be if they had ſome great matter which they have not, the want whereof, almoſt continu<g ref="char:EOLhyphen"/>ally vexes them, (for Covetouſ<g ref="char:EOLhyphen"/>neſſe and Ambition are unſati<g ref="char:EOLhyphen"/>able deſires) they regard not, ſo much what they have as vexe and perplexe themſelves for what they have not, ſtill thin<g ref="char:EOLhyphen"/>king they want although they poſſeſſe abundance. The cares which they take in getting and
+<pb n="167" facs="tcp:17154:81"/>
+keeping and the feares and griefes of Croſſes, of looſing and parting from what they have doe almoſt continually perplex them, So as even Riches and honour to Covetous Am<g ref="char:EOLhyphen"/>bitious men ſeeme to be rather a burthen, a griefe, then a plea<g ref="char:EOLhyphen"/>ſure to them. But the contented vertuous man although he bee but of low degree and poſſeſſe but a meane eſtate, yet he en<g ref="char:EOLhyphen"/>joyes farre more happineſſe therein, then the other in abun<g ref="char:EOLhyphen"/>dance, he it is whoſe free cheer<g ref="char:EOLhyphen"/>full and happy mind moſt ſweetly enjoyes within it ſelfe the choiceſt felicities that may be derived from Riches and ho<g ref="char:EOLhyphen"/>nour.</p>
+               <p>So alſo of pleaſures. Vertuous men their free and happy minds
+<pb n="168" facs="tcp:17154:82"/>
+are moſt apt and well prepared to enjoy the ſweeteſt delights and pleaſures on Earth.</p>
+               <p>They enjoy much more plea<g ref="char:EOLhyphen"/>ſure in a little of theſe Earthly felicities then vitious men in a<g ref="char:EOLhyphen"/>bundance and varieties, who are ſeldome ſatisfied or conten<g ref="char:EOLhyphen"/>ted, for if they ſhould glut themſelves with all ſorts of Earthly pleaſures, yet would they ſtill be gaping after and vnſatiably wiſhing for new con<g ref="char:EOLhyphen"/>tentments, and if they doe en<g ref="char:EOLhyphen"/>joy their gluttonous, Intempe<g ref="char:EOLhyphen"/>rate, Luxurious pleaſures to the full yet ſoone after they remain more melancholly and diſcon<g ref="char:EOLhyphen"/>tented then Monkes, for all vi<g ref="char:EOLhyphen"/>tious pleaſures moſt certainely will end in ſadneſſe diſcontent, ſhame and miſery. But vertue teacheth us to be ſweetly plea<g ref="char:EOLhyphen"/>ſed
+<pb n="169" facs="tcp:17154:82"/>
+yea even with a little accor<g ref="char:EOLhyphen"/>ding to Nature, Reaſon, and moderation, and giveth ſuch a free and happy mind to the fol<g ref="char:EOLhyphen"/>lowers thereof as they enjoy all earthly good pleaſures with much greater delight then vici<g ref="char:EOLhyphen"/>ous men, &amp; with contentment.</p>
+               <p>Vertuous men doe farre more ſweetly in their minds contem<g ref="char:EOLhyphen"/>plate all good pleaſures then vicious men and ſo more de<g ref="char:EOLhyphen"/>lightfully enjoyes them; for why, Slothfull, Dull, Heauie, paſſionate, diſtempered vicious minds doe not imagine, con<g ref="char:EOLhyphen"/>ceive nor enjoy nigh ſo much pleaſure in any thing as active perſpicuous, free, cheerefull vertuous minds; for ſuch minds are much more capable then the other to enjoy within them<g ref="char:EOLhyphen"/>ſelves by contemplation (and
+<pb n="170" facs="tcp:17154:83"/>
+conſequently in Action) the moſt delightfull felicities on Earth.</p>
+               <p>Such minds do farre more ex<g ref="char:EOLhyphen"/>cellently and pleaſantly then the other, contemplate and enjoy the ſweeteſt delights that may be derived from the happy ſociety of Parents, children, husbands, wives, lovers, friends, from Riches, Honour, Sports, Recrea<g ref="char:EOLhyphen"/>tions and pleaſures of all ſorts whatſoever.</p>
+               <p>Such a vertuous, free, light<g ref="char:EOLhyphen"/>ſome, perſpicuous, cheerefull, happy mind, can moſt pleaſant<g ref="char:EOLhyphen"/>ly &amp; ſprightfully glide through the world and ſweetly enjoy the moſt delightfull felicities there<g ref="char:EOLhyphen"/>of; for by contemplation it can aſſemble together even in one ſubject within it ſelfe all what<g ref="char:EOLhyphen"/>ſoever is moſt pleaſant and de<g ref="char:EOLhyphen"/>lightfull
+<pb n="171" facs="tcp:17154:83"/>
+on Earth. And thereof make an Electuary of pleaſure compounded of the quinteſſence of all the choyceſt delights that ever the world produced or Imagined to charme and pleaſe the mind of man, As of all the ſweeteſt Quires and Conſorts of Muſicke both of voices and Inſtruments that ever nature invented or imagined to raviſh our ſpirits, Of all the moſt glittering, amiable and glorious ſights, ſhewes, Triumphs, and beauties of the world, Of all the moſt pleaſant ſweetes, perfumes and flowers that ever the earth yeelded forth to delight us, Of all the choyceſt liquors, Wines, Banquets, dainties, and deli<g ref="char:EOLhyphen"/>cates that ever man Enjoy'd, even of all what pleaſures the world hath hitherto produced
+<pb n="172" facs="tcp:17154:84"/>
+to charme and delight our Spi<g ref="char:EOLhyphen"/>rits, yea or Imagined either; as of the Graces, The Muſes, The Nymphs, The Fayries, The Syrens, of Adonis Orchards, The Heſperian Gardens, The delights of Arcadia, of Arabia foelix, of the Elizian Shades, of Mahomets Imaginary Heaven, or whatſoever is delightfull, In ſumme, It can by contemplation enjoy a Paradiſe of delights with<g ref="char:EOLhyphen"/>in it ſelfe.</p>
+               <p>J might inſtance alſo con<g ref="char:EOLhyphen"/>cerning particular pleaſures, as of eating. It is well knowne by Phyſitians that Intemperance therein deſtroyes health, makes the body to become full fraught with crudities and noyſome hu<g ref="char:EOLhyphen"/>mours. And ſo in time thereby the ſtomacke and appetite be<g ref="char:EOLhyphen"/>comes corrupted and ſpoiled,
+<pb n="173" facs="tcp:17154:84"/>
+Inſomuch, as at laſt even dain<g ref="char:EOLhyphen"/>ties become diſpleaſant to In<g ref="char:EOLhyphen"/>temperate men, but Temperance keepes the body healthfull and agill, and makes the ſtomacke well prepared to relliſh and digeſt both meate and drinke; Inſomuch as ordinary fare to the temperate man becomes more pleaſant then choyceſt dainties to an Intemperate Cor<g ref="char:EOLhyphen"/>rupted ſtomacke.</p>
+               <p>So might I inſtance concer<g ref="char:EOLhyphen"/>ning other pleaſures in particu<g ref="char:EOLhyphen"/>lar, But in generall; Vitious men their minds, (and perchance bodies) being diſtempered by ſloth, paſſions and perturbations, even pleaſures are often to them as ſweet meate to a ſicke man, or muſicke to a diſcontented man, diſtaſtfull, diſpleaſant, and irkeſome. But vertuous men
+<pb n="174" facs="tcp:17154:85"/>
+their Minds being (as hath been ſhew'd) free from ſuch diſtem<g ref="char:EOLhyphen"/>pers, paſſions, and perturbati<g ref="char:EOLhyphen"/>ons, and poſſeſt with lightſom<g ref="char:EOLhyphen"/>neſſe, Tranquility, Ioy, and hap<g ref="char:EOLhyphen"/>pineſſe, becomes moſt apt and well prepared to enjoy the ſweeteſt and choyceſt felicities on Earth.</p>
+               <p>And indeed there is no earth<g ref="char:EOLhyphen"/>ly pleaſure either laudable or truely pleaſant which is not contained within the precincts of Vertue, becauſe otherwiſe the ſame will cauſe much more diſ<g ref="char:EOLhyphen"/>pleaſure then content; For all vice ingenders offence and diſ<g ref="char:EOLhyphen"/>content, and in the end will cer<g ref="char:EOLhyphen"/>tainely turne to Sadneſſe, Sor<g ref="char:EOLhyphen"/>row, and Miſery. But all plea<g ref="char:EOLhyphen"/>ſures being enjoy'd within the limits of vertue (which ought to be the rule and guide there<g ref="char:EOLhyphen"/>of)
+<pb n="175" facs="tcp:17154:85"/>
+are good and laudable; And ſo wee may and ſhould freely and cheerefully enjoy even a Paradice of delights and felici<g ref="char:EOLhyphen"/>ties within us, As I have ſhew'd and written more of this Sub<g ref="char:EOLhyphen"/>ject in a former Booke Enti<g ref="char:EOLhyphen"/>tuled <hi>THE Terreſtriall Paradice,</hi> OR <hi>Happineſſe on Earth.</hi>
+               </p>
+               <l>So that of earths felicities</l>
+               <l>our minds within us may</l>
+               <l>A ſweet and pleaſant Paradiſe</l>
+               <l>of happineſſe enjoy.</l>
+            </div>
+            <div n="10" type="part">
+               <pb n="176" facs="tcp:17154:86"/>
+               <head>
+                  <hi>THE X. DIVISION.</hi> That by vertue the mind be<g ref="char:EOLhyphen"/>comes apt and well diſpoſed to know, attaine, and enjoy (as farre as the ſame is capable) the felicities of Heaven on Earth.</head>
+               <p>
+                  <seg rend="decorInit">R</seg>Eaſon (which is the light of true wiſe<g ref="char:EOLhyphen"/>dom) is according to ſome Philoſo<g ref="char:EOLhyphen"/>phers) compoun<g ref="char:EOLhyphen"/>ded of all the vertues of the in<g ref="char:EOLhyphen"/>tellectuall ſoule; And by ſome, ſaid to be the onely Governeſſe and Directreſſe of all divine vertues; The ſame is alſo an At<g ref="char:EOLhyphen"/>tendant and a furtherance to all divine Graces.</p>
+               <p>Although Faith be the prin<g ref="char:EOLhyphen"/>cipall
+<pb n="177" facs="tcp:17154:86"/>
+and fountaine of heavenly Graces and infinitely above our Reaſon, yet this divine Grace of Faith diſdaines not to make a good uſe of Reaſon, for the furtherance and advancement of all heavenly Graces; yet onely ſo as her handmaid, to rule, con<g ref="char:EOLhyphen"/>troll, and governe her as a Miſtreſſe, how, and when ſhee pleaſes.</p>
+               <p>Divine Reaſon therfore (which is the Compound, the light, and directrix of all Vertue) may be ſaid to bee alſo a daughter of Heaven, the handmaiden of di<g ref="char:EOLhyphen"/>vine Faith, and ſerveth greatly to advance the honour and ex<g ref="char:EOLhyphen"/>cellency thereof, for the ſame often ſheweth, directeth, and teacheth us to receive, entertain and embrace this her heavenly Miſtreſſe, and to enjoy in her
+<pb n="178" facs="tcp:17154:87"/>
+the delights of heaven (in ſome meaſure) on Earth.</p>
+               <p>Let us then briefly ſee how this Divine Reaſon (which is the ſumme and ſubſtance of Vertue) directeth, well prepa<g ref="char:EOLhyphen"/>reth, and diſpoſeth our minds to ſee, attaine and enjoy this hea<g ref="char:EOLhyphen"/>venly happineſſe on Earth.</p>
+               <p>Reaſon is of ſuch force as that it can paſſe from things known to things vnknowne, It can ab<g ref="char:EOLhyphen"/>ſtract from viſible things, things inviſible, from Corporeall Jn<g ref="char:EOLhyphen"/>corporeall, Generals from par<g ref="char:EOLhyphen"/>ticulars, High and myſticall from plaine and triviall things. By Reaſon therefore it is that wee can in ſome meaſure ſpell Heaven from the Earth, and ſo already in ſome degree enjoy heaven, yea and God himſelfe
+<pb n="179" facs="tcp:17154:87"/>
+of whom it is ſaid,
+<q>
+                     <l>Hee is a Sunne whoſe</l>
+                     <l>glory ſtill doth ſhine,</l>
+                     <l>Hee is a Mine of</l>
+                     <l>all excelling Treaſures,</l>
+                     <l>Hee's ſuch whoſe eſſence</l>
+                     <l>no one can define,</l>
+                     <l>Hee is a Paradiſe</l>
+                     <l>of heavenly pleaſures</l>
+                  </q>
+               </p>
+               <p>Let us therefore even by the light of Reaſon looke upwards and take a view of heaven, and of God himſelf; we need mount up but eleven ſteps (according to Aſtrologers) from the Earth thither.</p>
+               <p>The firſt ſtayre is the Sphere of the <hi>Moone,</hi> The ſecond of <hi>Mercury,</hi> The third of <hi>Venus</hi> (names which they aſſigne un<g ref="char:EOLhyphen"/>to the heavens) The fourth that of the <hi>Sunne,</hi> The next of <hi>Mars, Iupiter, Saturne.</hi> Then
+<pb n="180" facs="tcp:17154:88"/>
+of the <hi>fixed Starres,</hi> The ninth <hi>Primum Mobile,</hi> The tenth the <hi>Chriſtalline heaven,</hi> and the higheſt and infinitly moſt ex<g ref="char:EOLhyphen"/>cellent is the <hi>Imperiall,</hi> which is Gods habitation, This is the place of our Eternity, of our heavenly Kingdome.</p>
+               <p>So that we can by our bodily eyes from the earth looke up to the Moone, The Sunne, The Starry heaven, and therein ſweetly pleaſe our ſelves in view and Contemplation of their glo<g ref="char:EOLhyphen"/>rious aſpect, their amiable, ſil<g ref="char:EOLhyphen"/>ver, bright, caeleſtiall Rayes; from thence higher even by the light of Reaſon wee can ſee be<g ref="char:EOLhyphen"/>yond the Spheres to the Imperi<g ref="char:EOLhyphen"/>all heaven, contemplating with Admiration and Reverence the Soveraigne Lord and Creator of all theſe, God himſelfe; and ſo
+<pb n="181" facs="tcp:17154:88"/>
+by and through theſe lower Glories, The firmament, Sunne, Moone, Starres, and all the Cae<g ref="char:EOLhyphen"/>leſtiall Spheres we may in ſome meaſure ſpell, learne, and eſpy infinitely more excellent hea<g ref="char:EOLhyphen"/>venly glory, delights and feli<g ref="char:EOLhyphen"/>cities.</p>
+               <p>
+                  <hi>The Heavens declare the glory of God, &amp;c. Pſal.</hi> 19.</p>
+               <p>The Earth alſo in ſome ſort ſhewes us his excellency; When therefore in reaſon wee conſider the motions, the ends, and the cauſes efficient of all the Crea<g ref="char:EOLhyphen"/>tures of the Earth, Their multi<g ref="char:EOLhyphen"/>tudes alſo, (for all mutitudes proceed from one unity, and the utmoſt unity is GOD,) Like<g ref="char:EOLhyphen"/>wiſe the marvailous Providence, Art, and wiſdome which may be obſerved in all things, as in the
+<pb n="182" facs="tcp:17154:89"/>
+making of every leaſt Creature, inſomuch as all the world (but GOD) cannot make the meaneſt therein, much leſſe the moſt ex<g ref="char:EOLhyphen"/>cellent, ſuch as are the admirable divine Immortall ſoules of men; As alſo his continuall preſerva<g ref="char:EOLhyphen"/>tion of all things, without whom the Sea would overflow the Land, one Creature devour another, The earth without him could not bring forth fruit, Nor man generate man; without him our clothes could afford us no warmth, nor meat, nouriſhment; neither indeed could any thing without him, live, grow, or ſub<g ref="char:EOLhyphen"/>ſiſt; When alſo we conſider the courſe of nature, The due order and ſubordination of all Crea<g ref="char:EOLhyphen"/>tures, which doe give their in<g ref="char:EOLhyphen"/>fluence one to another in an excellent manner, and all for
+<pb n="183" facs="tcp:17154:89"/>
+the uſe of man; Alſo the many- and divers pleaſures and felici<g ref="char:EOLunhyphen"/>ties of the world, ſo full of ex<g ref="char:EOLhyphen"/>cellency, ſweetnes, and delight; And laſtly the wonderfull mira<g ref="char:EOLhyphen"/>cles which have beene done in all Ages in the world; We can<g ref="char:EOLhyphen"/>not but in reaſon confeſſe, and in ſome meaſure eſpy the hea<g ref="char:EOLhyphen"/>venly Fountaine, the Cauſe, the Creator, the Preſerver, and Lord of all theſe, and admire his infi<g ref="char:EOLhyphen"/>nite Power, Wiſedome, Glory, and Excellency.</p>
+               <p>And more particularly, as from the pleaſures and felicities of the Earth, we may by reaſon eſpy and contemplate the infi<g ref="char:EOLhyphen"/>nitely more excellent felicities of heaven. If therefore we think of the moſt pleaſant and ſwee<g ref="char:EOLhyphen"/>teſt delights and felicities that ever the world produced or can
+<pb n="184" facs="tcp:17154:90"/>
+invent, to pleaſe, to delight, to charme, The Senſes, The Spirits, The Mind of man, Reaſon will tell us, if there be ſo much ex<g ref="char:EOLhyphen"/>cellency in Creatures, much more is there in the Creator, GOD himſelf; If we enjoy and contemplate ſo many, divers, ſweet and pleaſant delights in theſe little drops proceeding from the ocean of Gods excel<g ref="char:EOLhyphen"/>lency while we are heere on Earth, Reaſon tells us much more excellent and more plea<g ref="char:EOLhyphen"/>ſant may we and ſhall we enjoy in God himſelfe in heaven.</p>
+               <p>Alſo, from the mind of man we may in ſome ſort even by reaſon, eſpy God himſelfe and his heavenly excellencies and fe<g ref="char:EOLhyphen"/>licities. To inſtance in ſome particulars.</p>
+               <p>
+                  <pb n="185" facs="tcp:17154:90"/>And firſt from the excellen<g ref="char:EOLhyphen"/>cy of the mind of man, which is of ſuch an admirable quickneſſe ſprightfulneſſe, lightſomneſſe, and capacity as that it can glide through the world and thinke of the moſt excellent things therein even in a moment, and by contemplation enjoy the ſame within it ſelfe, yea it is al<g ref="char:EOLhyphen"/>ready capable in faithfull con<g ref="char:EOLhyphen"/>templation to eye Eternity, to mount up to Heaven, to GOD himſelfe, and in ſome degree to poſſeſſe and enjoy him and his heavenly felicities within it ſelfe; So that the mind of man ſeemes to be farre more excel<g ref="char:EOLhyphen"/>lent then the world, being of ſuch an admirable, quicke, per<g ref="char:EOLhyphen"/>ſpicuous, lightſom, and heaven<g ref="char:EOLhyphen"/>ly nature, even while it remains on Earth.</p>
+               <p>
+                  <pb n="186" facs="tcp:17154:91"/>When therefore the mind of man conſiders its owne excel<g ref="char:EOLhyphen"/>lency, it may even by Reaſon looke further to its Fountaine and Creator GOD himſelfe, whoſe Image it is in ſome mea<g ref="char:EOLhyphen"/>ſure, ſo farre as it is good and happy; And (knowing the cauſe is infinitely more excellent then the effect) as in a Mirror ſee and contemplate his infinite excel<g ref="char:EOLhyphen"/>lency who is the efficient cauſe of this and of all other excel<g ref="char:EOLhyphen"/>lency and happineſſe, and ſo be excited to love him with deereſt ardent love, and rejoyce in him with ſweeteſt and higheſt plea<g ref="char:EOLhyphen"/>ſure, who is our Minds onely true Ioy and Happineſſe.</p>
+               <p>Alſo further, when the mind of man conſiders its owne ex<g ref="char:EOLhyphen"/>cellency, even by reaſon it often doth or may looke upwards to
+<pb n="187" facs="tcp:17154:91"/>
+Heaven, wihther its future, eter<g ref="char:EOLhyphen"/>nall, and heavenly nature and deſire directs it, and contem<g ref="char:EOLhyphen"/>plate, if in this ſhort tranſitory, mortall life, it be of ſuch excel<g ref="char:EOLhyphen"/>lent wiſedome, Agility, Spright<g ref="char:EOLhyphen"/>fulneſſe, Perſpicuity, Wonder, Joy and happineſſe, how much more wiſe, lightſome, quicke, perſpicuous. Angel-like, divine and happy ſhall the ſame bee, when it is disburthened of this corrupted, heavie, earthly body which clogs it, when alſo it ſhal leave the world, and aſcend to Heaven to God himſelfe, with him, and in him to live, and per<g ref="char:EOLhyphen"/>take of his infinite ſweetneſſe and heavenly pleaſures for ever.</p>
+               <p>Alſo the mind of man from its Conſcience can even by rea<g ref="char:EOLhyphen"/>ſon in ſome ſort know and eſpy
+<pb n="188" facs="tcp:17154:92"/>
+heavenly happines; Conſcience is called by ſome, A little God within us, to direct us to doe well, and to cheere and rejoyce us therein; Alſo to divert us from evill, and to cauſe trouble and ſorrow in us when we eſ<g ref="char:EOLhyphen"/>chew goodneſſe and doe evill; This divine part of the mind called Conſcience, doth as it were by an heavenly inſtinct tell us, That there is a moſt powerfull, glorious, wiſe, juſt, good, loving, and in all reſpects infinitely excellent Creator and Governour of all things, who dwels in the Heavens, who gives us all the good wee have, And that he hath alſo prepared for Pious and vertuous men eternal heavenly rewards after this life, checking us with thoughts of Atheiſme and Blaſphemy when
+<pb n="189" facs="tcp:17154:92"/>
+we goe about to thinke and be<g ref="char:EOLhyphen"/>leeve the contrary, But rejoy<g ref="char:EOLhyphen"/>cing us when we doe well, when we love, deſire, ſeeke and con<g ref="char:EOLhyphen"/>template this our gracious and infinitely excellent God, and his heavenly felicities; wherefore ſeeing God hath imprinted in us ſuch a feeling of himſelfe as no Conſcience can deny him, but rather that every one ac<g ref="char:EOLhyphen"/>knowledgeth his infinite Glory, Power, Excellency, and heaven<g ref="char:EOLhyphen"/>ly felicities, it is great reaſon that we ſhould beleeve and en<g ref="char:EOLhyphen"/>deavour to ſeeke, ſee, and enjoy the ſame.</p>
+               <p>Alſo from the deſire of the mind of man to this eternall heavenly happineſſe in God, and the ſatisfaction and con<g ref="char:EOLhyphen"/>tentment which it receives in the faithfull Contemplation
+<pb n="190" facs="tcp:17154:93"/>
+thereof even on Earth, Reaſon in ſome ſort ſees and eſpies the ſame.</p>
+               <p>For the mind of man is of ſo large and excellent an appre<g ref="char:EOLhyphen"/>henſion and deſire, as it is al<g ref="char:EOLhyphen"/>ready in ſome meaſure capable to view and long after eternity and heavenly happineſſe, Of ſo generous a nature it is, as no<g ref="char:EOLhyphen"/>thing will ſatisfie the deſire thereof but Infiniteneſſe, but Eternity, but Heaven, but God himſelfe. There was yet never any man (though poſſeſſed with all ſorts of earthly felicities) but his mind hath ſtill deſired new pleaſures, it never can be ſatiſ<g ref="char:EOLhyphen"/>fied untill it can enjoy God himſelfe and his heavenly feli<g ref="char:EOLhyphen"/>cities; which often doth or may cauſe our minds greatly to de<g ref="char:EOLhyphen"/>ſire and long thereafter, And to
+<pb n="11" facs="tcp:17154:93"/>
+pray with King <hi>David, Shew me O God, the Ioy of thy Salva<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>This alſo, may in ſome ſort even by Reaſon make us per<g ref="char:EOLhyphen"/>ceive and Enjoy this infinite Eternall heavenly felicity, ſince without the ſame our divine heaven borne ſoules can never be ſatisfied, and after the ſame ſince we doe (even according to the nature of our ſoules) great<g ref="char:EOLhyphen"/>ly long and deſire.</p>
+               <p>Alſo, foraſmuch as when our minds once come to bee truely rayſed (in divine Contemplati<g ref="char:EOLhyphen"/>on) to heaven, to God himſelfe, The deſires thereof doe remaine even ſatisfied, contented, and moſt ſweetly pleas'd on Earth; For then knowing, that when God pleaſes and thinkes good, wee ſhall eternally enjoy this
+<pb n="192" facs="tcp:17154:94"/>
+heavenly happineſſe in perfec<g ref="char:EOLhyphen"/>tion, Of which in ſuch divine Contemplations wee begin to taſt already, and in this heaven<g ref="char:EOLhyphen"/>ly elevation ſeeing our minds rayſed aboue the world, aboue our ſelves, and beginning alrea<g ref="char:EOLhyphen"/>dy to live an heavenly Angel<g ref="char:EOLhyphen"/>licall life with God himſelfe, our deſires remaine ſweetly pleas'd and ſatisfied with hea<g ref="char:EOLhyphen"/>venly delight and happineſſe.</p>
+               <p>Thus doth divine vertue or Reaſon, which is the Compound, light, and directreſſe there<g ref="char:EOLhyphen"/>of, prepare our minds to ſee, know, attaine and Enjoy hea<g ref="char:EOLhyphen"/>venly delights and happineſſe on Earth.</p>
+               <p>I might inſtance alſo, concer<g ref="char:EOLhyphen"/>ning divers particular vertues, But in Generall, let vs yet fur<g ref="char:EOLhyphen"/>ther
+<pb n="193" facs="tcp:17154:94"/>
+conſider; The minds of vitious men being dulled and annoyed by Sloth, Intempe<g ref="char:EOLhyphen"/>rance, or diſtempered by paſſi<g ref="char:EOLhyphen"/>ons and perturbations cannot be well capable, nor well pre<g ref="char:EOLhyphen"/>pared to performe the functions and exerciſes thereof or any good Action or office proper thereunto, Such as are Prayer, Study, divine Meditations, Con<g ref="char:EOLhyphen"/>templations, and all lofty and excellent matters, or to receive, retayne or enjoy divine wiſe<g ref="char:EOLhyphen"/>dome, Grace, Jlluminations, or Conſolations. But vertuous men their minds being free from Sloth and evill deſires, from diſtempers, paſſions, and per<g ref="char:EOLhyphen"/>turbations, and on the contrary being Active, quicke, light<g ref="char:EOLhyphen"/>ſome, well diſpoſed and poſſeſt with ſweet Tranquility, Joy,
+<pb n="194" facs="tcp:17154:95"/>
+and happineſſe, become free, cheerefull, ſprightly, apt and well prepared for the perfor<g ref="char:EOLhyphen"/>mance of all excellent and di<g ref="char:EOLhyphen"/>vine Studies, Exerciſes and Con<g ref="char:EOLhyphen"/>templations, And to know, re<g ref="char:EOLhyphen"/>ceive, retayne, entertayne and enjoy all heavenly Inſpirations, Irradiations and Conſolations.</p>
+               <p>Inſomuch as it is ſaid, that many of the Ancient fathers and other divine Saints of GOD, have by reaſon of Temperance and other vertues, attained unto a very high Pitch of heavenly wiſedome and Grace, and that by this meanes they came to ſo great a meaſure of holineſſe and familiarity with God, as they became admirable to all the World, and that his divine Ma<g ref="char:EOLhyphen"/>jeſty vouchſafed very graciouſly to deſcend downe vnto them,
+<pb n="195" facs="tcp:17154:95"/>
+Illuminating them wonderful<g ref="char:EOLhyphen"/>ly with divine Graces and hea<g ref="char:EOLhyphen"/>venly conſolations, Inſomuch as they were poſſeſt with ſo great Ioy and ſolace of mind, with ſuch heavenly delights and happineſſe, as they deemed themſelves in Paradiſe.</p>
+               <p>Inſomuch as truly, by divine Vertue, The Mind of Man be<g ref="char:EOLhyphen"/>comes moſt apt, well prepared and diſpoſed to enjoy (as farre as it is capable) the felicities of Heaven on Earth, To mount up to heaven in faithfull Contem<g ref="char:EOLhyphen"/>plations and to entertaine it ſelfe with Angells, and with God himſelfe, To enjoy within it ſelfe as much heavenly plea<g ref="char:EOLhyphen"/>ſure and happineſſe as it can thinke of; Nay more, (as ſome have enjoy'd) ſuch and ſo much as the mind that enjoyes the
+<pb n="196" facs="tcp:17154:96"/>
+ſame is not able to conceive or receive it, Such as St. <hi>Paul</hi> ſaith <hi>hath not entred into the Heart of man;</hi> Such as even over<g ref="char:EOLhyphen"/>comes the heart and mind, brings the ſame into a divine extaſie and Tranſportation and makes it even beſides it ſelfe with heavenly admiration and pleaſure, yea even beyond and above it ſelfe, of a future and divine nature, of a Super-hu<g ref="char:EOLhyphen"/>mane and heavenly temper on Earth.</p>
+               <p>But concerning this Subject of heavenly Ioy and happineſſe, I have now lately alſo publiſht another Treatiſe, Entituled <hi>Heaven within vs,</hi> OR, <hi>Divine happineſſe on Earth.</hi>
+               </p>
+               <l>
+                  <pb n="197" facs="tcp:17154:96"/>A Paradice of heavenly Ioy</l>
+               <l>So may we gaine, that even</l>
+               <l>Within vs we already may</l>
+               <l>Poſſeſſe delights of heaven.</l>
+               <p>To Conclude; In ſumme,</p>
+               <p>By vertue our minds become apt, well prepared and diſpoſed to Enjoy a Paradice of delights and felicities, both Earthly and heavenly within vs.</p>
+               <lg>
+                  <l>So if we could fayre</l>
+                  <l>vertues Beauty ſpy,</l>
+                  <l>With love we ſhould bee</l>
+                  <l>inflamed preſently,</l>
+                  <l>Her ſweetneſſe would attract</l>
+                  <l>vs with ſuch Charmes</l>
+                  <l>Wee ſhould embrace the ſame</l>
+                  <l>with open Armes.</l>
+                  <l>Who loves her lovely ſelfe</l>
+                  <l>loves not in vaine,</l>
+                  <l>Millions of pleaſures they</l>
+                  <l>ſhall ſurely gaine.</l>
+                  <l>Shee free's our minds from</l>
+                  <l>ſloth and evill paſſions</l>
+                  <l>
+                     <pb n="198" facs="tcp:17154:97"/>From ill deſires, from</l>
+                  <l>feares and perturbations;</l>
+                  <l>Shee Crownes the ſame with</l>
+                  <l>lightſome pleaſantneſſe</l>
+                  <l>With peace and Courage,</l>
+                  <l>Ioy and happineſſe,</l>
+                  <l>Shee doth direct vs</l>
+                  <l>and prepares the way</l>
+                  <l>Both vnto earthly,</l>
+                  <l>and to heavenly Ioy.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>So hee that's wiſe</hi>
+                  </l>
+                  <l>
+                     <hi>A Paradiſe</hi>
+                  </l>
+                  <l>
+                     <hi>of ſweet delights doth find</hi>
+                  </l>
+                  <l>
+                     <hi>In vertues wayes</hi>
+                  </l>
+                  <l>
+                     <hi>Which he enjoyes</hi>
+                  </l>
+                  <l>
+                     <hi>within his happy Mind.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:17154:97"/>
+            <pb facs="tcp:17154:98"/>
+            <pb n="136" facs="tcp:17154:99"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="137" facs="tcp:17154:99"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="138" facs="tcp:17154:100"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="139" facs="tcp:17154:100"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="140" facs="tcp:17154:101"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="145" facs="tcp:17154:103"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="146" facs="tcp:17154:104"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="147" facs="tcp:17154:104"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="148" facs="tcp:17154:105"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="149" facs="tcp:17154:105"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="150" facs="tcp:17154:106"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="151" facs="tcp:17154:106"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="152" facs="tcp:17154:107"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="153" facs="tcp:17154:107"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="154" facs="tcp:17154:108"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="155" facs="tcp:17154:108"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="156" facs="tcp:17154:109"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="157" facs="tcp:17154:109"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="158" facs="tcp:17154:110"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="159" facs="tcp:17154:110"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="160" facs="tcp:17154:111"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="161" facs="tcp:17154:111"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
